@@ -10,8 +10,8 @@
     "group_tag_visible": false,
     "name": "",
     "pdf_export_settings": {
-        "min_line_width": 0,
-        "output_filename": ""
+        "min_line_width": 50000,
+        "output_filename": "exports/schematic.pdf"
     },
     "rules": {
         "single_pin_net": {
