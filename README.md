@@ -20,3 +20,5 @@ However, the following features are generally useful:
   (e.g. to debug full-featured USB-C implementations)
 
 There is no firmware yet for the STM32 MCU.
+
+Designed with Horizon EDA [https://github.com/horizon-eda/horizon]
