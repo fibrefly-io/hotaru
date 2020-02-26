@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "93C66"
+    ],
+    "base": "b49714d0-24f7-405e-a829-09ee0171bb9d",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        true,
+        "93Cx6 SPI eeprom"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "ae68aeb7-c3c0-473d-9108-dcf5075e4cf7",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "6554083e-577e-4f4b-a282-92baca965add",
+    "value": [
+        true,
+        "93Cx6"
+    ]
+}

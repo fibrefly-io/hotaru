@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "ECS-240-10-36B-CTN"
+    ],
+    "base": "20c7c0e2-25f0-46a7-8d85-1f2d5a6ee5cb",
+    "datasheet": [
+        true,
+        "https://www.ecsxtal.com/store/pdf/ECX-2236B.pdf"
+    ],
+    "description": [
+        true,
+        "2.5 x 2.0 x 0.55 crystal, 8pF, ±10/10ppm"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        true,
+        "ECS"
+    ],
+    "model": "2e3366df-6263-46c8-bc25-cce46269d26a",
+    "orderable_MPNs": {
+        "89625759-b4e7-4dd4-a564-62fdbf219d3d": "ECS-240-10-36B-CTN-TR"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "a9b55cf4-51c7-40c7-bc03-800d7164fdeb",
+    "value": [
+        false,
+        "24MHz"
+    ]
+}

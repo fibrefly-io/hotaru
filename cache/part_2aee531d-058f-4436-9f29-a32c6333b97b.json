@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "STM32F072CBU?"
+    ],
+    "base": "525c4599-cdbd-4d99-8f70-8394255fd784",
+    "datasheet": [
+        true,
+        "https://www.st.com/resource/en/datasheet/stm32f072cb.pdf"
+    ],
+    "description": [
+        true,
+        ""
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        true,
+        "STMicroelectronics"
+    ],
+    "model": "35194471-922a-49fe-b8df-6706ad547700",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "2aee531d-058f-4436-9f29-a32c6333b97b",
+    "value": [
+        true,
+        "STM32F072C?U?"
+    ]
+}

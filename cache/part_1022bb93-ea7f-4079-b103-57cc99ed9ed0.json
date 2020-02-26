@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "YC124-J"
+    ],
+    "base": "92f0f1cb-d383-4927-8c9e-cb3313d3058d",
+    "datasheet": [
+        false,
+        "http://www.yageo.com/documents/recent/PYu-YC_TC_group_51_RoHS_L_9.pdf"
+    ],
+    "description": [
+        false,
+        "Array chip resistors, 5%"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Yageo"
+    ],
+    "model": "77afad10-3436-4a26-862e-5d4ca97c0814",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "1022bb93-ea7f-4079-b103-57cc99ed9ed0",
+    "value": [
+        true,
+        "Two-terminal resistor, 0804 / 0402×4 array"
+    ]
+}

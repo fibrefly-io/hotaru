@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "IN-S63AT"
+    ],
+    "base": "86ca09b4-ea0c-45a7-81d2-f9129d94a122",
+    "datasheet": [
+        false,
+        "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Top%20View/IN-S63AT%20Series_V1.1.pdf"
+    ],
+    "description": [
+        true,
+        ""
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Inolux"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "6199a12d-bd3d-49e9-a811-363304a98d09",
+    "value": [
+        true,
+        "base 0603 led"
+    ]
+}

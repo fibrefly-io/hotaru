@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "MMBT3904T"
+    ],
+    "datasheet": [
+        false,
+        "https://www.diodes.com/assets/Datasheets/ds30270.pdf"
+    ],
+    "description": [
+        false,
+        "General purpose NPN bipolar transistor"
+    ],
+    "entity": "15e94b7a-b7c9-4bf2-820c-11074dc0718e",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Diodes Inc."
+    ],
+    "model": "4827c055-903e-4c48-a27b-167101c52549",
+    "orderable_MPNs": {
+        "08c60d9b-4a06-456b-865f-38bce5ea5ac7": "MMBT3904T-7-F",
+        "2d648754-f646-43d0-99c4-475db388edaa": "MMBT3904T-13-F"
+    },
+    "package": "9260270c-dc4a-446a-9fcd-0f930e1ffabc",
+    "pad_map": {
+        "03eae3a5-6b86-4859-a831-06b32da3cb29": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "074c3718-08fd-4f94-88fc-2bb43174b245"
+        },
+        "c8227bdb-d278-485c-a109-cdc288810f82": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        },
+        "fae7463e-3cad-46b5-98fc-38304324fe87": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "bjt",
+        "npn",
+        "transistor"
+    ],
+    "type": "part",
+    "uuid": "27c3d79d-5284-47ab-a31b-1644fb80832c",
+    "value": [
+        false,
+        "2N3904"
+    ]
+}

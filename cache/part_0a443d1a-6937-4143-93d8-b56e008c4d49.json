@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "ECS-120-10-36B-CWY"
+    ],
+    "base": "20c7c0e2-25f0-46a7-8d85-1f2d5a6ee5cb",
+    "datasheet": [
+        true,
+        "https://www.ecsxtal.com/store/pdf/ECX-2236B.pdf"
+    ],
+    "description": [
+        true,
+        "2.5 x 2.0 x 0.55 crystal, 8pF, ±10/10ppm"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        true,
+        "ECS"
+    ],
+    "model": "2e3366df-6263-46c8-bc25-cce46269d26a",
+    "orderable_MPNs": {
+        "89625759-b4e7-4dd4-a564-62fdbf219d3d": "ECS-120-10-36B-CWY-TR"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "0a443d1a-6937-4143-93d8-b56e008c4d49",
+    "value": [
+        false,
+        "12MHz"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Diodes Inc.",
+    "name": "AP22615",
+    "pins": {
+        "18fed850-3716-48a0-ba37-a0875360269b": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "FLG",
+            "swap_group": 0
+        },
+        "3b05d82c-d239-42cd-b105-6ddb77a0308e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "IN",
+            "swap_group": 0
+        },
+        "43ea1b77-78a0-41e2-ad29-85635321520a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        },
+        "7db9fee2-6e6f-4f3f-a36f-8386d88d0b7b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "ISET",
+            "swap_group": 0
+        },
+        "9e5de564-1d49-4ad9-93a0-d7e691883856": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "OUT",
+            "swap_group": 0
+        },
+        "d28b2d25-a9be-423e-a685-53fb6d8ca34d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "569651c0-2f1f-461e-8418-c9705b62276b"
+}

@@ -1,0 +1,55 @@
+{
+    "holes": {},
+    "name": "No-Paste Pad",
+    "padstack_type": "top",
+    "parameter_program": "get-parameter [ pad_width ]\nget-parameter [ pad_height ]\ndupc dupc\nset-shape [ pad rectangle ]\nget-parameter [ solder_mask_expansion ]\n2 *\n+xy\nset-shape [ mask rectangle ]",
+    "parameter_set": {
+        "pad_height": 500000,
+        "pad_width": 500000,
+        "solder_mask_expansion": 100000
+    },
+    "parameters_required": [
+        "pad_width",
+        "pad_height"
+    ],
+    "polygons": {},
+    "shapes": {
+        "691d7b0b-d0ad-4572-968e-34d4e99e2873": {
+            "form": "rectangle",
+            "layer": 0,
+            "parameter_class": "pad",
+            "params": [
+                500000,
+                500000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "f47491b8-5fd3-49b2-b9ea-bc7275792867": {
+            "form": "rectangle",
+            "layer": 10,
+            "parameter_class": "mask",
+            "params": [
+                700000,
+                700000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        }
+    },
+    "type": "padstack",
+    "uuid": "1f2913b2-73d3-41da-871a-4801a8ffdedc",
+    "well_known_name": ""
+}

@@ -1,0 +1,68 @@
+{
+    "MPN": [
+        false,
+        "SN74AVC2T244"
+    ],
+    "datasheet": [
+        false,
+        "http://www.ti.com/lit/gpn/sn74avc2t244"
+    ],
+    "description": [
+        false,
+        "2-Bit Undirectional Voltage Level Translator"
+    ],
+    "entity": "b6e5766d-31cb-427d-9830-9ecb91ea9699",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "3a1d533e-f865-45d6-8e2d-59f35cc0cd45",
+    "orderable_MPNs": {
+        "25e23546-b9c2-4acb-8998-e86d62b235a9": "SN74AVC2T244DQMR"
+    },
+    "package": "62b0c78d-0fa2-46bb-bb4b-b68d6175c532",
+    "pad_map": {
+        "1a8f5806-866d-48ea-8bc2-05117d701679": {
+            "gate": "0ea29555-1e03-46c9-9319-0d07f5e39bc7",
+            "pin": "6537d04b-c777-45d0-b745-062a48678312"
+        },
+        "43395f9f-ffcc-480e-8db2-39a32c3f34cd": {
+            "gate": "0ea29555-1e03-46c9-9319-0d07f5e39bc7",
+            "pin": "72eeea70-debc-4152-8dd4-2c5ed489e7e4"
+        },
+        "58222dd0-47ef-4e86-ad25-8ba102502ac4": {
+            "gate": "0ea29555-1e03-46c9-9319-0d07f5e39bc7",
+            "pin": "213a835c-3627-4d0a-b678-b32221ecb6b5"
+        },
+        "6427b287-41a4-466b-8df7-21712ac75f5e": {
+            "gate": "0ea29555-1e03-46c9-9319-0d07f5e39bc7",
+            "pin": "283979ef-a926-4d3e-9600-ff5a15437341"
+        },
+        "8aff2517-1f3c-4629-b693-ee1078d84d73": {
+            "gate": "0ea29555-1e03-46c9-9319-0d07f5e39bc7",
+            "pin": "f00d0d42-c8f6-47ce-9441-bba831b68486"
+        },
+        "ebdd0ab7-690b-413d-a56b-c8307b4db7f6": {
+            "gate": "0ea29555-1e03-46c9-9319-0d07f5e39bc7",
+            "pin": "3c91ef0b-c34d-4d31-acd0-e6450ebfeaf6"
+        },
+        "f6d6cfcc-0d65-45e5-a70f-cd4d1510200b": {
+            "gate": "0ea29555-1e03-46c9-9319-0d07f5e39bc7",
+            "pin": "b08fc77c-b7e5-409c-9b99-c4679f680747"
+        },
+        "face0d17-5767-4275-a94f-7355e79839ae": {
+            "gate": "0ea29555-1e03-46c9-9319-0d07f5e39bc7",
+            "pin": "6a05d463-8ed2-4f9b-86ea-71aab0096ec9"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "54878226-eed5-4919-b0e5-fa8616e02aaf",
+    "value": [
+        false,
+        "AVC2T244"
+    ]
+}

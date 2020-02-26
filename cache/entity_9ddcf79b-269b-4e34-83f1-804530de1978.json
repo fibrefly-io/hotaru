@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "c414f55e-d3d3-494a-a159-c2daec5d2124": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "86bbf055-b950-4191-8e83-6f60e7c77675"
+        }
+    },
+    "manufacturer": "",
+    "name": "93Cx6",
+    "prefix": "U",
+    "tags": [
+        "eeprom",
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "9ddcf79b-269b-4e34-83f1-804530de1978"
+}

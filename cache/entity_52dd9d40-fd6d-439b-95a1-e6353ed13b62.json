@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "75259eac-338b-4957-a46e-ce3721ce9eeb": {
+            "name": "",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "295a3a92-e711-4a84-aa57-34942ae98c1b"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "TLV62568AP",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "regulator",
+        "switched"
+    ],
+    "type": "entity",
+    "uuid": "52dd9d40-fd6d-439b-95a1-e6353ed13b62"
+}

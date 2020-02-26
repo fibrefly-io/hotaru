@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "RMCF0603FT2K20"
+    ],
+    "base": "cf9b4417-2f9c-4715-b265-0b850e19b82b",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "SMD Resistor 0603, 2.2 Kohm, 1%, 0.1W (RMCF)"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1.0",
+        "value": "2200.0"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "6671165a-3c84-4d01-84f0-fc11f1ca2398",
+    "value": [
+        false,
+        "2.2 k\u2126"
+    ]
+}

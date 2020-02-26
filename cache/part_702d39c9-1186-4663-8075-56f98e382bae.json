@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "24C02"
+    ],
+    "base": "3c1f7e9d-2943-4faf-b66f-c0b147a4f9f1",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        true,
+        ""
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "ae68aeb7-c3c0-473d-9108-dcf5075e4cf7",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "702d39c9-1186-4663-8075-56f98e382bae",
+    "value": [
+        true,
+        "24C EEPROM"
+    ]
+}

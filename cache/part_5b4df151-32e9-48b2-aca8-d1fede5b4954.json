@@ -1,0 +1,153 @@
+{
+    "MPN": [
+        false,
+        "2012670005"
+    ],
+    "datasheet": [
+        false,
+        "https://www.molex.com/pdm_docs/sd/2012670005_sd.pdf"
+    ],
+    "description": [
+        false,
+        "USB C receptacle, top mount, SMD"
+    ],
+    "entity": "1393f8b2-ba6c-4b02-8e7c-0f7d4ec05aaa",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Molex"
+    ],
+    "model": "d9f35620-c333-47ae-b628-b3dce6f265ea",
+    "orderable_MPNs": {
+        "2317fed0-0b0f-4b17-9404-7d9fc1840da3": "2012670005"
+    },
+    "package": "670ad2b8-763c-4442-b470-2d9fcb142f4d",
+    "pad_map": {
+        "1c6cea26-e2a2-4ad0-910a-9ffdbabdcf60": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "455f76b8-052d-4f40-838a-2b2a7fcee1fc"
+        },
+        "3220bc9c-15b3-4593-88fd-57eb5513d05a": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "c8f2c737-95a2-49db-9ded-9e14619fc815"
+        },
+        "34756c3b-5c4c-498a-a6b2-a30dcf2bffc5": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "33517a64-5bad-41cd-85f2-da1040706782"
+        },
+        "39c56386-1f2d-45ad-ba85-91f3e34a075f": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "b07ba6f6-e401-4c83-b1c8-68c98b04d129"
+        },
+        "3a8eae6d-179f-4595-9545-efd76c24b5a4": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "027080da-ad9c-4251-a033-af11a9152a98"
+        },
+        "404d3cc9-591f-4911-9453-c9f2440dba1f": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "1bf17e50-113f-4fd4-b3d6-9ec9a73f8451"
+        },
+        "478e06ea-8567-4842-90fa-e54da432638e": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "f867d1a0-774b-4e33-8218-a6779b858752"
+        },
+        "4bc4255c-012f-40b6-8145-d6f9accb3cca": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "29eb7073-2e5d-47e5-a316-ec042297df9e"
+        },
+        "50f06c6f-f88a-4d2c-8623-dcf14f2348c4": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "d1ab2f4c-665b-4cd9-a3cf-7ecd921c9c5f"
+        },
+        "510b9af6-def2-49ba-a8fc-0fe2f790f336": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "a6d40cb1-1e07-4235-acf3-0cddc805713c"
+        },
+        "68c5dc45-ae25-47e5-b96e-9850c11fb6bf": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "eacd28df-4f34-42e3-9e3c-842631ed26f9"
+        },
+        "74e5ebb6-a54c-4a37-8848-179bf7ca5bca": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "29eb7073-2e5d-47e5-a316-ec042297df9e"
+        },
+        "7c7aff84-bd36-4f6e-ac05-b58579f42f47": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "eacd28df-4f34-42e3-9e3c-842631ed26f9"
+        },
+        "8773ca51-db2c-4001-b31d-0cc53b71e74d": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "ed2e7995-e0cb-49b6-b23c-f026d6bb7cf3"
+        },
+        "94bab724-74ab-4148-bfa1-ed8b78f419fe": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "4cea34a8-0daa-4270-a531-7bbabc011d91"
+        },
+        "99d24728-839b-492f-aef2-cff1f6a812c8": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "eacd28df-4f34-42e3-9e3c-842631ed26f9"
+        },
+        "9bbcbc9e-9074-4bb4-9716-91d371197fed": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "29eb7073-2e5d-47e5-a316-ec042297df9e"
+        },
+        "a8bed9d2-62ec-4b96-9060-26d21a224e66": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "1bf17e50-113f-4fd4-b3d6-9ec9a73f8451"
+        },
+        "ac20f564-8263-4b76-86b6-cca93fe8ece1": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "29eb7073-2e5d-47e5-a316-ec042297df9e"
+        },
+        "b5aee6b0-2826-45bf-8dc0-bbfa612c0ace": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "5220d5a3-dbfe-4881-9643-ca94701e50ff"
+        },
+        "bc8a42fc-1f82-4807-ad8f-6a5fafe430de": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "eacd28df-4f34-42e3-9e3c-842631ed26f9"
+        },
+        "c086f441-30da-47bb-aabe-ae04192fddf0": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "409ad28e-807c-4e5d-b185-9531404c7d1b"
+        },
+        "c6644ce9-74fd-4dae-a26a-9641535f97f0": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "1bf17e50-113f-4fd4-b3d6-9ec9a73f8451"
+        },
+        "cc6f5a02-be3e-4dc3-90ab-93ad5127e1fb": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "1bf17e50-113f-4fd4-b3d6-9ec9a73f8451"
+        },
+        "d335bbe0-6910-41cb-961b-c9d7aba38362": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "287c1565-4cf1-46b4-ae37-b08fcfd0d88d"
+        },
+        "e0893178-6da9-499b-9061-8c22ca09c936": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "f70e09d1-8666-4d4f-b26e-ae1791de8de5"
+        },
+        "f4d88ba0-8489-454b-908a-4dff52b33167": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "993a9b08-c4fe-4420-862b-d9e90cf92b65"
+        },
+        "fffe33b6-52ce-4c03-9aab-1fb3a5e356ed": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "135a608c-fe6d-4e9b-8c01-d560eba1621c"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "smd",
+        "type-c",
+        "usb"
+    ],
+    "type": "part",
+    "uuid": "5b4df151-32e9-48b2-aca8-d1fede5b4954",
+    "value": [
+        false,
+        ""
+    ]
+}

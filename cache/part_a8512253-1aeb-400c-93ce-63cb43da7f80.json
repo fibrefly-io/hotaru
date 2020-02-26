@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "YC124-J?-??330R?"
+    ],
+    "base": "1022bb93-ea7f-4079-b103-57cc99ed9ed0",
+    "datasheet": [
+        true,
+        "http://www.yageo.com/documents/recent/PYu-YC_TC_group_51_RoHS_L_9.pdf"
+    ],
+    "description": [
+        true,
+        "Array chip resistors, 5%"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        true,
+        "Yageo"
+    ],
+    "model": "77afad10-3436-4a26-862e-5d4ca97c0814",
+    "orderable_MPNs": {
+        "36502976-f120-44b2-8955-f42610131c90": "YC124-JK-13330RL",
+        "4dd324d9-b7cb-469d-80b9-7bc2717e31c2": "YC124-JR-07330RL",
+        "931d9ecf-6732-4abf-b33e-da1411de0978": "YC124-JR-13330RL",
+        "c3583bd4-2806-49f4-bc47-1fd4fbdceb73": "YC124-JK-07330RL"
+    },
+    "parametric": {
+        "pmax": "0.0625",
+        "table": "resistors",
+        "tolerance": "5",
+        "value": "330"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "a8512253-1aeb-400c-93ce-63cb43da7f80",
+    "value": [
+        false,
+        "330Ω"
+    ]
+}

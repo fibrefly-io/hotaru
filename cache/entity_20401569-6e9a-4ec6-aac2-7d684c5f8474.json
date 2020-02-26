@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "faec6c84-2130-4193-acb5-a6004546ada1": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "d01d791f-c3da-497a-8446-09bc33443235"
+        }
+    },
+    "manufacturer": "STMicroelectronics",
+    "name": "STM32F072C",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "mcu"
+    ],
+    "type": "entity",
+    "uuid": "20401569-6e9a-4ec6-aac2-7d684c5f8474"
+}

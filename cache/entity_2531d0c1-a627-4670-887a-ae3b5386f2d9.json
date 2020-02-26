@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "bdc1bb7a-67e6-4be3-af72-64e171e4fd79": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "3ccc7017-e33d-4dbe-971c-0986c7e19ce6"
+        }
+    },
+    "manufacturer": "",
+    "name": "74*595",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "logic"
+    ],
+    "type": "entity",
+    "uuid": "2531d0c1-a627-4670-887a-ae3b5386f2d9"
+}

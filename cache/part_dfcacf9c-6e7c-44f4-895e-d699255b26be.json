@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "AP7383-18W5"
+    ],
+    "base": "1af157fb-0d92-43af-9120-d56b19b490ad",
+    "datasheet": [
+        true,
+        "https://www.diodes.com/assets/Datasheets/AP7383.pdf"
+    ],
+    "description": [
+        true,
+        "Wide input voltage range, 150mA ULDO regulator"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        true,
+        "Diodes Inc."
+    ],
+    "model": "eb54e7ca-dcad-4e09-bd45-d2e32cddaa2a",
+    "orderable_MPNs": {
+        "b177d8d8-129d-45a2-9251-174a0a9c2f20": "AP7383-18W5-7"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "dfcacf9c-6e7c-44f4-895e-d699255b26be",
+    "value": [
+        false,
+        "AP7383 1.8V"
+    ]
+}

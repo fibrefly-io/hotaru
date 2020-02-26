@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "74438336010"
+    ],
+    "datasheet": [
+        false,
+        "https://katalog.we-online.de/pbs/datasheet/74438336010.pdf"
+    ],
+    "description": [
+        false,
+        "WE-MAPI SMD Shielded Power Inductor"
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Würth Elektronik"
+    ],
+    "model": "12a2eddc-bd5f-400f-95b6-c54910dc85e1",
+    "orderable_MPNs": {
+        "73f8de31-1e87-4f63-b2cc-b4eb3affb34b": "edit me"
+    },
+    "package": "069d3b04-5bf6-4b14-a474-1d091a99a54d",
+    "pad_map": {
+        "0e01c374-ef27-4c83-bf87-3c5bcadb2abe": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "6652ef58-d338-4dff-8256-05362a2c8c33": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        }
+    },
+    "parametric": {
+        "dcr": "0.026",
+        "idc": "4",
+        "table": "inductors",
+        "value": "1e-06"
+    },
+    "tags": [
+        "inductor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "9c0ebe87-ef30-476a-ada5-92712696ed2a",
+    "value": [
+        false,
+        "1 µH"
+    ]
+}

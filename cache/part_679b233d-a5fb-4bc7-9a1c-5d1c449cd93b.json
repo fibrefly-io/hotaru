@@ -1,0 +1,77 @@
+{
+    "MPN": [
+        false,
+        "AOZ1375DI"
+    ],
+    "datasheet": [
+        false,
+        "http://www.aosmd.com/res/data_sheets/AOZ1375DI-01.pdf"
+    ],
+    "description": [
+        false,
+        "ECPowerTM 20V 5A Bidirectional Load Switch with Over-Voltage and Over-Current Protection"
+    ],
+    "entity": "0146d725-0ed8-4c22-9548-65305bba0daa",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Alpha & Omega"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "ceed887b-d573-4979-9d93-bae99c494e76",
+    "pad_map": {
+        "0d9ebe38-0856-47da-aa70-75349659a07c": {
+            "gate": "c408ff70-9e95-43c1-87f0-3de7b92772ff",
+            "pin": "c96fb76b-39da-4e5c-b773-3bacd5da0da3"
+        },
+        "18a26806-63ec-4731-b8d4-27cdb36e23b6": {
+            "gate": "c408ff70-9e95-43c1-87f0-3de7b92772ff",
+            "pin": "3b8c17d1-0b9a-432a-8dd2-d38f3a3bec22"
+        },
+        "204631d0-0e4c-4d61-b0a0-d40ed2e44489": {
+            "gate": "c408ff70-9e95-43c1-87f0-3de7b92772ff",
+            "pin": "3065f554-0df4-4824-9e0a-8717f74ce560"
+        },
+        "2354bd11-48fa-42d2-a885-b8e7c109b5e3": {
+            "gate": "c408ff70-9e95-43c1-87f0-3de7b92772ff",
+            "pin": "dd24f154-e7dd-4309-832a-ac4a225d2b27"
+        },
+        "4b0cc25e-199d-4c88-a664-d69247a638e5": {
+            "gate": "c408ff70-9e95-43c1-87f0-3de7b92772ff",
+            "pin": "d4ec329c-ebeb-460f-a5c0-2377cc44affe"
+        },
+        "56b32299-5fe6-4be9-8e5a-8070b2ae99e4": {
+            "gate": "c408ff70-9e95-43c1-87f0-3de7b92772ff",
+            "pin": "632e0dcb-9fb7-4069-ac9a-c96348043add"
+        },
+        "573f7e03-d8c9-4cf0-9e59-aa885d59fa4e": {
+            "gate": "c408ff70-9e95-43c1-87f0-3de7b92772ff",
+            "pin": "605ed3af-1b4b-43f7-b090-18380af27296"
+        },
+        "74589a20-fdfd-446a-add2-7407f3edb810": {
+            "gate": "c408ff70-9e95-43c1-87f0-3de7b92772ff",
+            "pin": "25cbb50e-513e-4c78-bb92-9b92d25f8914"
+        },
+        "b03bbfda-5b55-4a73-a1dc-a157855cd889": {
+            "gate": "c408ff70-9e95-43c1-87f0-3de7b92772ff",
+            "pin": "7c4bf6b4-6a13-4c0b-a12b-869bdf82e09c"
+        },
+        "c22b3bd0-52fb-4941-94cb-8a668b43024c": {
+            "gate": "c408ff70-9e95-43c1-87f0-3de7b92772ff",
+            "pin": "1080f6cd-1036-4771-b87d-b67df00cb052"
+        },
+        "ccc15d97-ebaa-47cd-b2d4-991cdbd0b623": {
+            "gate": "c408ff70-9e95-43c1-87f0-3de7b92772ff",
+            "pin": "605ed3af-1b4b-43f7-b090-18380af27296"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "679b233d-a5fb-4bc7-9a1c-5d1c449cd93b",
+    "value": [
+        false,
+        ""
+    ]
+}

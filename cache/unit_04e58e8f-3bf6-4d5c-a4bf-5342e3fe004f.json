@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "Solder bridge",
+    "pins": {
+        "61fbb49a-4c5a-46ee-aa1e-d40db5c9dff9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 1
+        },
+        "84539151-a8e3-4f91-8bfd-bfe7761d61d3": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 1
+        }
+    },
+    "type": "unit",
+    "uuid": "04e58e8f-3bf6-4d5c-a4bf-5342e3fe004f"
+}

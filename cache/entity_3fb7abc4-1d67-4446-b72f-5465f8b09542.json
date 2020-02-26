@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "389de35d-eaf8-492e-ad24-3569d0a26c2b": {
+            "name": "",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "33435a05-563d-472e-96b9-7eb3fa598160"
+        }
+    },
+    "manufacturer": "ON Semiconductor",
+    "name": "FUSB307",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "type-c",
+        "usb"
+    ],
+    "type": "entity",
+    "uuid": "3fb7abc4-1d67-4446-b72f-5465f8b09542"
+}

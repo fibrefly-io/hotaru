@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "PMR10EZPFV2L00"
+    ],
+    "base": "14c4f9ad-b057-4dda-91db-60cc91c5ecc2",
+    "datasheet": [
+        true,
+        "https://www.rohm.com/datasheet/PMR18EZPFV/pmr-e"
+    ],
+    "description": [
+        true,
+        "Ultra-low ohmic chip resistors for current detection"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        true,
+        "Rohm"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "f5f416b4-a800-4a94-861a-e34698a21218": "PMR10EZPFV2L00"
+    },
+    "parametric": {
+        "pmax": "0.5",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "0.002"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "9d8d978b-7f7c-4ba9-abf3-9059a94d3d20",
+    "value": [
+        false,
+        "2mΩ"
+    ]
+}

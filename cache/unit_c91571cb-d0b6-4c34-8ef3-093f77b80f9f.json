@@ -1,0 +1,122 @@
+{
+    "manufacturer": "",
+    "name": "USB-C",
+    "pins": {
+        "027080da-ad9c-4251-a033-af11a9152a98": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Dp1",
+            "swap_group": 0
+        },
+        "135a608c-fe6d-4e9b-8c01-d560eba1621c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "CC1",
+            "swap_group": 0
+        },
+        "1bf17e50-113f-4fd4-b3d6-9ec9a73f8451": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SHIELD",
+            "swap_group": 0
+        },
+        "287c1565-4cf1-46b4-ae37-b08fcfd0d88d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Dn1",
+            "swap_group": 0
+        },
+        "29eb7073-2e5d-47e5-a316-ec042297df9e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Vbus",
+            "swap_group": 0
+        },
+        "33517a64-5bad-41cd-85f2-da1040706782": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SBU2",
+            "swap_group": 0
+        },
+        "409ad28e-807c-4e5d-b185-9531404c7d1b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "CC2",
+            "swap_group": 0
+        },
+        "455f76b8-052d-4f40-838a-2b2a7fcee1fc": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SSRXp2",
+            "swap_group": 0
+        },
+        "4cea34a8-0daa-4270-a531-7bbabc011d91": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SSTXn2",
+            "swap_group": 0
+        },
+        "5220d5a3-dbfe-4881-9643-ca94701e50ff": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SBU1",
+            "swap_group": 0
+        },
+        "993a9b08-c4fe-4420-862b-d9e90cf92b65": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SSRXp1",
+            "swap_group": 0
+        },
+        "a6d40cb1-1e07-4235-acf3-0cddc805713c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SSRXn2",
+            "swap_group": 0
+        },
+        "b07ba6f6-e401-4c83-b1c8-68c98b04d129": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SSTXp1",
+            "swap_group": 0
+        },
+        "c8f2c737-95a2-49db-9ded-9e14619fc815": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SSRXn1",
+            "swap_group": 0
+        },
+        "d1ab2f4c-665b-4cd9-a3cf-7ecd921c9c5f": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SSTXn1",
+            "swap_group": 0
+        },
+        "eacd28df-4f34-42e3-9e3c-842631ed26f9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "ed2e7995-e0cb-49b6-b23c-f026d6bb7cf3": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SSTXp2",
+            "swap_group": 0
+        },
+        "f70e09d1-8666-4d4f-b26e-ae1791de8de5": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Dn2",
+            "swap_group": 0
+        },
+        "f867d1a0-774b-4e33-8218-a6779b858752": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Dp2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "c91571cb-d0b6-4c34-8ef3-093f77b80f9f"
+}

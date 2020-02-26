@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "dbb9643f-85ce-4977-8a61-cbd34ca33bc4": {
+            "name": "",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "c91571cb-d0b6-4c34-8ef3-093f77b80f9f"
+        }
+    },
+    "manufacturer": "",
+    "name": "USB-C plug",
+    "prefix": "J",
+    "tags": [
+        "connector",
+        "type-c",
+        "usb"
+    ],
+    "type": "entity",
+    "uuid": "c970c4f8-936f-4f8f-8569-374deaa605d8"
+}

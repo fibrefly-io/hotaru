@@ -1,0 +1,61 @@
+{
+    "MPN": [
+        false,
+        "TLV6256xAP"
+    ],
+    "datasheet": [
+        false,
+        "http://www.ti.com/lit/gpn/tlv62568a"
+    ],
+    "description": [
+        false,
+        "2.5V-5.5V input, 1A/2A high efficiency step-down buck converter with forced PWM in small SOT563 package"
+    ],
+    "entity": "52dd9d40-fd6d-439b-95a1-e6353ed13b62",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "63ab0dbc-61ff-4f08-9464-acf993cd2c06",
+    "package": "818718e9-c0a3-4ffb-86f2-4e71d75b35d9",
+    "pad_map": {
+        "46ff2801-f4ab-4f56-85d5-54e064a4838d": {
+            "gate": "75259eac-338b-4957-a46e-ce3721ce9eeb",
+            "pin": "1a88e458-d03d-41ce-bcd1-56a95a02bdf1"
+        },
+        "5a868f14-e766-4284-a257-69b3f0a45b80": {
+            "gate": "75259eac-338b-4957-a46e-ce3721ce9eeb",
+            "pin": "3ad9eaee-e068-4ae7-9c8c-cf9ec3696831"
+        },
+        "77336e09-f767-47d6-94ce-9547bdc2e12e": {
+            "gate": "75259eac-338b-4957-a46e-ce3721ce9eeb",
+            "pin": "58407aad-0ba4-4a14-9004-c915df4ae4a1"
+        },
+        "e0362259-8630-45ca-8471-4eb8b646b8ad": {
+            "gate": "75259eac-338b-4957-a46e-ce3721ce9eeb",
+            "pin": "9aa71e80-55e1-4791-8dc7-afc5ffebdb31"
+        },
+        "f1b39886-f20d-42f3-adb1-d18ec26b5b1f": {
+            "gate": "75259eac-338b-4957-a46e-ce3721ce9eeb",
+            "pin": "4584b820-eed0-47be-ab01-af7cfd07018b"
+        },
+        "f427b414-f532-4ae3-957b-1436d90eda78": {
+            "gate": "75259eac-338b-4957-a46e-ce3721ce9eeb",
+            "pin": "3b9c3222-69dc-4ca7-8cab-6bf0bfcc6fb6"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "regulator",
+        "switched"
+    ],
+    "type": "part",
+    "uuid": "20f86e44-78bb-4ab7-96f0-b61e7934deae",
+    "value": [
+        false,
+        ""
+    ]
+}

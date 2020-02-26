@@ -1,0 +1,52 @@
+{
+    "manufacturer": "",
+    "name": "93Cx6",
+    "pins": {
+        "02698b73-ab71-4deb-918a-891a6193d538": {
+            "direction": "input",
+            "names": [
+                "NC"
+            ],
+            "primary_name": "ORG",
+            "swap_group": 0
+        },
+        "121a8ee9-9acd-44c3-a5e1-13375308e4f7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DI",
+            "swap_group": 0
+        },
+        "34156d7c-770a-4f74-b1e0-fa94b202b2ee": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CLK",
+            "swap_group": 0
+        },
+        "593b0399-2ac8-4d67-973c-a49b62dc1e5d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "744aab7a-bc09-4174-bb5d-fffcca50e2af": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CS",
+            "swap_group": 0
+        },
+        "cb82aa2c-dd20-415d-9a53-233af502a975": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DO",
+            "swap_group": 0
+        },
+        "e4d716fb-8097-4ac6-978d-ed67ac5483be": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "86bbf055-b950-4191-8e83-6f60e7c77675"
+}

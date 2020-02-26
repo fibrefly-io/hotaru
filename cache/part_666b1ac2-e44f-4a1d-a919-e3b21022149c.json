@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "YC124-J?-??10K?"
+    ],
+    "base": "1022bb93-ea7f-4079-b103-57cc99ed9ed0",
+    "datasheet": [
+        true,
+        "http://www.yageo.com/documents/recent/PYu-YC_TC_group_51_RoHS_L_9.pdf"
+    ],
+    "description": [
+        true,
+        "Array chip resistors, 5%"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        true,
+        "Yageo"
+    ],
+    "model": "77afad10-3436-4a26-862e-5d4ca97c0814",
+    "orderable_MPNs": {
+        "36502976-f120-44b2-8955-f42610131c90": "YC124-JK-1310KL",
+        "4dd324d9-b7cb-469d-80b9-7bc2717e31c2": "YC124-JR-0710KL",
+        "931d9ecf-6732-4abf-b33e-da1411de0978": "YC124-JR-1310KL",
+        "c3583bd4-2806-49f4-bc47-1fd4fbdceb73": "YC124-JK-0710KL"
+    },
+    "parametric": {
+        "pmax": "0.0625",
+        "table": "resistors",
+        "tolerance": "5",
+        "value": "10000"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "666b1ac2-e44f-4a1d-a919-e3b21022149c",
+    "value": [
+        false,
+        "10kΩ"
+    ]
+}

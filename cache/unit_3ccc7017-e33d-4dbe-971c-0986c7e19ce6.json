@@ -1,0 +1,112 @@
+{
+    "manufacturer": "",
+    "name": "74*595",
+    "pins": {
+        "01114acf-ea9f-463d-ac91-deb888f503f8": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "Q5",
+            "swap_group": 0
+        },
+        "343f560d-9ee0-45cc-9f16-2f8546b8947e": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "Q1",
+            "swap_group": 0
+        },
+        "356d116c-edfe-4959-b6e6-85b31bbaf99a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "Q4",
+            "swap_group": 0
+        },
+        "39c37f43-5824-422f-81fb-9e42d6240f70": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "OE",
+            "swap_group": 0
+        },
+        "57024cf5-e10d-4a48-8ed4-2266c69d3c69": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "5cc74616-1e84-4789-9e60-2faf2abd1c8a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "Q6",
+            "swap_group": 0
+        },
+        "6edb37b8-ad92-486d-8cb4-97495e4a3afc": {
+            "direction": "input",
+            "names": [
+                "DS"
+            ],
+            "primary_name": "IN",
+            "swap_group": 0
+        },
+        "76c0487e-47c7-49df-bf88-8c09410c2a77": {
+            "direction": "input",
+            "names": [
+                "STCP"
+            ],
+            "primary_name": "RCLK",
+            "swap_group": 0
+        },
+        "7de9a49b-7057-4340-9fc0-e7412b9e700b": {
+            "direction": "input",
+            "names": [
+                "SHCP"
+            ],
+            "primary_name": "SRCLK",
+            "swap_group": 0
+        },
+        "92dddaed-dee2-44a9-8b4e-9b834dcab34a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "Q2",
+            "swap_group": 0
+        },
+        "a196a382-7e73-444c-a96f-fc626794f24b": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "Q3",
+            "swap_group": 0
+        },
+        "a48dfa7b-e9ae-460c-a5d5-d85681cf4287": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "bc445a1a-9a7c-42aa-9a43-7eb8b49c43b5": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "Q7",
+            "swap_group": 0
+        },
+        "dfa674f8-9566-4394-a74a-9f24c129dd5c": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "Q7S",
+            "swap_group": 0
+        },
+        "fd558201-1a80-4264-90ff-3d046cabe7e2": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "Q0",
+            "swap_group": 0
+        },
+        "fed41620-1625-4893-ac7e-8b21555f9195": {
+            "direction": "input",
+            "names": [
+                "MR"
+            ],
+            "primary_name": "SRCLR",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "3ccc7017-e33d-4dbe-971c-0986c7e19ce6"
+}

@@ -1,0 +1,38 @@
+{
+    "manufacturer": "Microchip",
+    "name": "USB2514B hub port",
+    "pins": {
+        "3cd0d485-f900-4fa9-bfe4-af4bd039575f": {
+            "direction": "bidirectional",
+            "names": [
+                "D+"
+            ],
+            "primary_name": "D-",
+            "swap_group": 1
+        },
+        "407d111a-5e78-4214-a084-f50352be9d58": {
+            "direction": "bidirectional",
+            "names": [
+                "BC_EN"
+            ],
+            "primary_name": "PRTPWR",
+            "swap_group": 0
+        },
+        "44e30512-0f56-4bd3-8bd8-951f0f0b25b9": {
+            "direction": "bidirectional",
+            "names": [
+                "D-"
+            ],
+            "primary_name": "D+",
+            "swap_group": 1
+        },
+        "7ebde0d4-5d96-441d-b351-8309d553f030": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "OCS_N",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "eeb3508f-a9da-47d5-ad26-517b53fc7a06"
+}

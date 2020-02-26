@@ -1,0 +1,152 @@
+{
+    "MPN": [
+        false,
+        "CX60-24S-UNIT"
+    ],
+    "datasheet": [
+        false,
+        "https://www.hirose.com/product/download/?distributor=digikey&type=2d&lang=en&num=CX60-24S-UNIT"
+    ],
+    "description": [
+        false,
+        "USB Type-C plug"
+    ],
+    "entity": "c970c4f8-936f-4f8f-8569-374deaa605d8",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Hirose"
+    ],
+    "model": "dc3f9f14-a654-408b-b907-ab10855a0005",
+    "orderable_MPNs": {
+        "b5f841dc-15cc-4988-8669-591ca7088e4c": "CX60-24S-UNIT"
+    },
+    "package": "83b26164-2033-49f8-be59-0c9faacbfd32",
+    "pad_map": {
+        "012e1454-e756-4f8f-9c6b-843348cd0ca1": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "f867d1a0-774b-4e33-8218-a6779b858752"
+        },
+        "0585c550-1904-4d6e-bbe6-d0c696009c92": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "29eb7073-2e5d-47e5-a316-ec042297df9e"
+        },
+        "0b810596-ee14-42ce-87b4-92e8d0d7f13c": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "455f76b8-052d-4f40-838a-2b2a7fcee1fc"
+        },
+        "18c13309-2b76-4331-9e2d-048635122ec8": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "5220d5a3-dbfe-4881-9643-ca94701e50ff"
+        },
+        "22efa745-6ba3-4825-82a0-8654eb01961d": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "b07ba6f6-e401-4c83-b1c8-68c98b04d129"
+        },
+        "2d16e664-2c05-453a-8521-27cf4722d42a": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "4cea34a8-0daa-4270-a531-7bbabc011d91"
+        },
+        "3eb3ddf0-c923-496e-b255-7e8139528434": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "027080da-ad9c-4251-a033-af11a9152a98"
+        },
+        "44a77c3c-77d8-4d8b-b2b2-cf5d8521f457": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "1bf17e50-113f-4fd4-b3d6-9ec9a73f8451"
+        },
+        "4c4f5e32-1805-4446-b944-c4c24d7d30eb": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "eacd28df-4f34-42e3-9e3c-842631ed26f9"
+        },
+        "5e463d7d-5352-40c3-a149-8bc6fd43f3cf": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "eacd28df-4f34-42e3-9e3c-842631ed26f9"
+        },
+        "6b5fe812-d2c0-466d-bc9e-7f4d50ffdce6": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "287c1565-4cf1-46b4-ae37-b08fcfd0d88d"
+        },
+        "710c80ff-4e46-4688-be07-787d0ecf39ef": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "29eb7073-2e5d-47e5-a316-ec042297df9e"
+        },
+        "76f032dd-55bd-40c4-83c9-6ba5a3fd5196": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "eacd28df-4f34-42e3-9e3c-842631ed26f9"
+        },
+        "7da87e0d-475b-4687-80c6-e241fd0cda59": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "1bf17e50-113f-4fd4-b3d6-9ec9a73f8451"
+        },
+        "83b1466a-eb70-4944-a1cc-f4576cc60fd0": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "c8f2c737-95a2-49db-9ded-9e14619fc815"
+        },
+        "8a0932e1-f537-4080-8588-6e6577ffd9b5": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "33517a64-5bad-41cd-85f2-da1040706782"
+        },
+        "90e612d7-4267-46b0-b3f6-05f020ffa2f6": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "409ad28e-807c-4e5d-b185-9531404c7d1b"
+        },
+        "91ddafe2-49e7-49aa-bba3-8ccf6f11cba3": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "1bf17e50-113f-4fd4-b3d6-9ec9a73f8451"
+        },
+        "92dd6440-d552-43a2-bf5b-de31a2459c53": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "29eb7073-2e5d-47e5-a316-ec042297df9e"
+        },
+        "945049a4-ff59-4672-b6ac-c0c6f18b488c": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "eacd28df-4f34-42e3-9e3c-842631ed26f9"
+        },
+        "970b88a8-bbfd-46f9-8e1d-ed4f776c7542": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "a6d40cb1-1e07-4235-acf3-0cddc805713c"
+        },
+        "af385c5c-e41b-4da7-8f79-9b674e79599d": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "135a608c-fe6d-4e9b-8c01-d560eba1621c"
+        },
+        "af453e9d-3067-4a4f-a47b-3a5ab9d6e3ec": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "d1ab2f4c-665b-4cd9-a3cf-7ecd921c9c5f"
+        },
+        "b1dd9f29-c253-439e-90c4-d7f5872cec16": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "993a9b08-c4fe-4420-862b-d9e90cf92b65"
+        },
+        "b8acfdb2-a87d-4c81-bcb5-97c18afe08f7": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "29eb7073-2e5d-47e5-a316-ec042297df9e"
+        },
+        "c36cc5f9-06b7-427c-baa4-c99c1ef268d7": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "ed2e7995-e0cb-49b6-b23c-f026d6bb7cf3"
+        },
+        "c3b8f849-b9c1-434b-a3d7-6329093fb35c": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "1bf17e50-113f-4fd4-b3d6-9ec9a73f8451"
+        },
+        "df307452-f61a-4908-bbe4-b0cf63c9285a": {
+            "gate": "dbb9643f-85ce-4977-8a61-cbd34ca33bc4",
+            "pin": "f70e09d1-8666-4d4f-b26e-ae1791de8de5"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "type-c",
+        "usb"
+    ],
+    "type": "part",
+    "uuid": "e64303b9-bd21-4fd2-a392-96af540a71ba",
+    "value": [
+        false,
+        ""
+    ]
+}

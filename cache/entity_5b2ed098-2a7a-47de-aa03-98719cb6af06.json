@@ -1,0 +1,44 @@
+{
+    "gates": {
+        "022daf35-b8a7-46df-9fdc-ed3a9c5634d2": {
+            "name": "A",
+            "suffix": "A",
+            "swap_group": 1,
+            "unit": "eeb3508f-a9da-47d5-ad26-517b53fc7a06"
+        },
+        "1ec4c37a-35c7-4d0c-a63e-223465ec71be": {
+            "name": "B",
+            "suffix": "B",
+            "swap_group": 1,
+            "unit": "eeb3508f-a9da-47d5-ad26-517b53fc7a06"
+        },
+        "90c11093-7e4f-4ba6-91df-31c518da8fba": {
+            "name": "D",
+            "suffix": "D",
+            "swap_group": 1,
+            "unit": "eeb3508f-a9da-47d5-ad26-517b53fc7a06"
+        },
+        "d0c4ebfe-8348-4386-994e-79322a9dbe45": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "2b397a62-2b8f-4348-842c-97964b8164e8"
+        },
+        "ece3933e-a0dc-448f-b497-3124436ace83": {
+            "name": "C",
+            "suffix": "C",
+            "swap_group": 1,
+            "unit": "eeb3508f-a9da-47d5-ad26-517b53fc7a06"
+        }
+    },
+    "manufacturer": "Microchip",
+    "name": "USB2514B",
+    "prefix": "U",
+    "tags": [
+        "hub",
+        "ic",
+        "usb"
+    ],
+    "type": "entity",
+    "uuid": "5b2ed098-2a7a-47de-aa03-98719cb6af06"
+}

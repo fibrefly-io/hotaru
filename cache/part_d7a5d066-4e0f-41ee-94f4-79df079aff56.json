@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "BZT585B3V3T"
+    ],
+    "base": "6e1a4312-7b90-4136-9560-8a87451a2461",
+    "datasheet": [
+        true,
+        "https://www.diodes.com/assets/Datasheets/BZT585BxVxT.pdf"
+    ],
+    "description": [
+        true,
+        "Surface mount precision Zener diode (2%)"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        true,
+        "Diodes Inc."
+    ],
+    "model": "bdafba99-5da8-42b8-8beb-7235f01d7a53",
+    "orderable_MPNs": {
+        "c4cab385-041e-4a0d-9014-128ea2b0ed17": "BZT585B3V3T-7"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "d7a5d066-4e0f-41ee-94f4-79df079aff56",
+    "value": [
+        false,
+        "3.3V 2%"
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "MPN": [
+        false,
+        "FUSB307B"
+    ],
+    "datasheet": [
+        false,
+        "https://www.onsemi.com/pub/Collateral/FUSB307B-D.PDF"
+    ],
+    "description": [
+        false,
+        "USB Type-C Port Controller with USB-PD"
+    ],
+    "entity": "3fb7abc4-1d67-4446-b72f-5465f8b09542",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ON Semiconductor"
+    ],
+    "model": "324c5a34-fd60-46c7-bc03-4c90d57cd3f8",
+    "orderable_MPNs": {
+        "75668a84-2de4-4f69-964c-958051dea895": "FUSB307BVMPX",
+        "e69202b5-ffde-4a99-9bda-25412acdc776": "FUSB307BMPX"
+    },
+    "package": "ab7248f3-d550-434e-9f97-8ada46b09804",
+    "pad_map": {
+        "01f1e369-1c09-4814-b1db-c74796494321": {
+            "gate": "389de35d-eaf8-492e-ad24-3569d0a26c2b",
+            "pin": "50bb09f1-9b8a-4a0b-a8e4-9fd26fbbc08d"
+        },
+        "0a48ff9a-4daf-41ab-90bf-a79ee6a9927a": {
+            "gate": "389de35d-eaf8-492e-ad24-3569d0a26c2b",
+            "pin": "b0014752-2b72-49c2-8741-e2a6bc59d885"
+        },
+        "1525a70a-9005-4b7f-9aba-ab9e9b70ae9b": {
+            "gate": "389de35d-eaf8-492e-ad24-3569d0a26c2b",
+            "pin": "b1de1c5b-d04b-424b-b39e-66560be4cbe0"
+        },
+        "1d4d1b68-abe0-4666-ab40-84335a41c0ef": {
+            "gate": "389de35d-eaf8-492e-ad24-3569d0a26c2b",
+            "pin": "5bf913a2-d595-482c-9ef8-bf67325f5741"
+        },
+        "521f5fa1-3693-4acf-b06b-b6a9b8a5cf30": {
+            "gate": "389de35d-eaf8-492e-ad24-3569d0a26c2b",
+            "pin": "8fbc434a-0912-464d-9640-b8d9fdb4e973"
+        },
+        "52b8e909-69c1-408f-a75e-59cab89a69d1": {
+            "gate": "389de35d-eaf8-492e-ad24-3569d0a26c2b",
+            "pin": "eed5cd5a-8399-4d94-bfe5-642b5de2543b"
+        },
+        "58f45942-ee32-47fd-9e4e-a16c1ae6cd8b": {
+            "gate": "389de35d-eaf8-492e-ad24-3569d0a26c2b",
+            "pin": "cca7e92f-81dc-4aff-bb26-a276fb787214"
+        },
+        "6233a030-3666-4de7-b3a8-4fda13d22ac3": {
+            "gate": "389de35d-eaf8-492e-ad24-3569d0a26c2b",
+            "pin": "421556a7-cd40-4de3-844c-b4783ffb623a"
+        },
+        "67155d1b-c7e3-4893-b885-21572fe62676": {
+            "gate": "389de35d-eaf8-492e-ad24-3569d0a26c2b",
+            "pin": "0ede13eb-00b6-4436-b0f5-689e5434898e"
+        },
+        "770160ad-3e45-431c-8833-d1a3005649ba": {
+            "gate": "389de35d-eaf8-492e-ad24-3569d0a26c2b",
+            "pin": "d5239f61-0891-4f9c-a939-109575bd66e5"
+        },
+        "9e2ab086-173e-490f-b4e6-4814dea81b13": {
+            "gate": "389de35d-eaf8-492e-ad24-3569d0a26c2b",
+            "pin": "088eb6f7-3f77-4b27-b297-61791296f54c"
+        },
+        "a91890ed-7ab1-47b2-8fff-533d034fad8f": {
+            "gate": "389de35d-eaf8-492e-ad24-3569d0a26c2b",
+            "pin": "c4f1c2e8-03a7-4abd-b0b2-d3ca7ba8af8a"
+        },
+        "ac26fbcb-be68-48ca-a9b5-3b411577d83a": {
+            "gate": "389de35d-eaf8-492e-ad24-3569d0a26c2b",
+            "pin": "6b2312af-ba2f-408f-8cd9-a9007dc6fe66"
+        },
+        "bbd532ef-1e8d-40aa-ad15-b064324d790c": {
+            "gate": "389de35d-eaf8-492e-ad24-3569d0a26c2b",
+            "pin": "2e4c76fb-cb4a-4603-8c0d-2096ca59a7ba"
+        },
+        "ec3aadbd-1165-4ac6-8d9d-64849d04e9cb": {
+            "gate": "389de35d-eaf8-492e-ad24-3569d0a26c2b",
+            "pin": "4c8f5914-099f-4211-b8c7-d4f623776de8"
+        },
+        "f70e0953-30c0-433b-b807-1b7e5458b58b": {
+            "gate": "389de35d-eaf8-492e-ad24-3569d0a26c2b",
+            "pin": "0db55024-e68d-4b6c-b8f0-2c9b253d31f5"
+        },
+        "fe85c8c9-4364-4d44-9d74-2d68fa6c4ad1": {
+            "gate": "389de35d-eaf8-492e-ad24-3569d0a26c2b",
+            "pin": "9c13ec2a-18f6-450c-bcf0-8b704407e6b3"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "type-c",
+        "usb"
+    ],
+    "type": "part",
+    "uuid": "b4ff1487-995e-4883-9978-db59333e05d8",
+    "value": [
+        false,
+        ""
+    ]
+}

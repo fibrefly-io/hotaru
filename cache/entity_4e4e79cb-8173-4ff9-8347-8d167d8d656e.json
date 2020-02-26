@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "2943ffe0-9acb-4bc7-985c-09329c59f66f": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "81e51ec0-f097-4c34-88f5-3f0b9f442231"
+        }
+    },
+    "manufacturer": "",
+    "name": "ARM Cortex debug connector",
+    "prefix": "J",
+    "tags": [],
+    "type": "entity",
+    "uuid": "4e4e79cb-8173-4ff9-8347-8d167d8d656e"
+}

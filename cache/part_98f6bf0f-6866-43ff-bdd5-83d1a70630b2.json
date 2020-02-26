@@ -1,0 +1,61 @@
+{
+    "MPN": [
+        false,
+        "INA21x"
+    ],
+    "datasheet": [
+        false,
+        "http://www.ti.com/lit/gpn/ina210"
+    ],
+    "description": [
+        false,
+        "26V, Bi-Directional, Zero-Drift, Low-/High-Side, Voltage Output Current Sense Amplifier"
+    ],
+    "entity": "67d68000-804f-4109-bd27-e6ea9c917dda",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "c98e79df-0d34-465f-b6ab-403e5464a143",
+    "package": "a8aa1b71-15aa-41df-87b6-57907508e373",
+    "pad_map": {
+        "03b49cba-9225-41e7-a120-bbe06031b825": {
+            "gate": "905e4c3b-b9ce-40ba-9464-5cb711e30a01",
+            "pin": "26ad6112-142e-4905-b93c-b51e17bbc72e"
+        },
+        "5c82c01a-7d2f-409b-baac-47eb0a2073ab": {
+            "gate": "905e4c3b-b9ce-40ba-9464-5cb711e30a01",
+            "pin": "fc822acf-ce0f-4bdf-b7cd-3a5ef4957147"
+        },
+        "770289a5-aa05-4639-ae7b-9b3f9600b267": {
+            "gate": "905e4c3b-b9ce-40ba-9464-5cb711e30a01",
+            "pin": "96eaa6c6-74b2-490f-96b6-33226798e441"
+        },
+        "7d64c7bc-f4d1-40f3-85cb-9ef94a3d973b": {
+            "gate": "905e4c3b-b9ce-40ba-9464-5cb711e30a01",
+            "pin": "d29a0807-9481-48d6-97bc-f65a6e0e4cb8"
+        },
+        "911c6ef3-a951-42a3-98df-1fc3e013a3ec": {
+            "gate": "905e4c3b-b9ce-40ba-9464-5cb711e30a01",
+            "pin": "cd6ae0fc-dd41-4401-b541-287348f034b0"
+        },
+        "d66402e8-b01f-40a1-ac70-ddaee47a2c79": {
+            "gate": "905e4c3b-b9ce-40ba-9464-5cb711e30a01",
+            "pin": "46304b03-232a-4536-8fb9-1918ae80f30c"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "opamp",
+        "single"
+    ],
+    "type": "part",
+    "uuid": "98f6bf0f-6866-43ff-bdd5-83d1a70630b2",
+    "value": [
+        false,
+        ""
+    ]
+}

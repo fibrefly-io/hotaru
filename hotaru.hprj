@@ -1,0 +1,17 @@
+{
+    "blocks": [
+        {
+            "block_filename": "top_block.json",
+            "is_top": true,
+            "schematic_filename": "top_sch.json"
+        }
+    ],
+    "board_filename": "board.json",
+    "name": "hotaru",
+    "pool_cache_directory": "cache",
+    "pool_uuid": "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6",
+    "title": "fibrefly debug adapter",
+    "type": "project",
+    "uuid": "4441b438-ba64-45f1-9bf5-29f513cb0bc8",
+    "vias_directory": "vias"
+}

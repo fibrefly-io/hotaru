@@ -1,0 +1,84 @@
+{
+    "manufacturer": "",
+    "name": "ARM Cortex debug connector",
+    "pins": {
+        "38db3294-dfc3-430b-92a1-2a1187c442ab": {
+            "direction": "passive",
+            "names": [
+                "1"
+            ],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "3db7fe02-604e-4960-b2b1-0578f4782512": {
+            "direction": "passive",
+            "names": [
+                "6",
+                "TDO"
+            ],
+            "primary_name": "SWO",
+            "swap_group": 0
+        },
+        "4c3f7b77-060a-4cc8-9589-5b33c9d3b678": {
+            "direction": "passive",
+            "names": [
+                "9"
+            ],
+            "primary_name": "GNDdet",
+            "swap_group": 0
+        },
+        "63a2f649-839c-488c-8d87-bfae6388ef1a": {
+            "direction": "passive",
+            "names": [
+                "5"
+            ],
+            "primary_name": "GND5",
+            "swap_group": 0
+        },
+        "7222169d-2694-4b74-ae22-5ad906606f99": {
+            "direction": "passive",
+            "names": [
+                "8",
+                "TDI"
+            ],
+            "primary_name": "NC",
+            "swap_group": 0
+        },
+        "aa3df9df-f618-49c4-bbe4-36d4757a60ba": {
+            "direction": "passive",
+            "names": [
+                "10"
+            ],
+            "primary_name": "SRST",
+            "swap_group": 0
+        },
+        "c4b28d29-3d36-426c-9e96-e3c874a781ac": {
+            "direction": "passive",
+            "names": [
+                "4",
+                "TCK"
+            ],
+            "primary_name": "SWCLK",
+            "swap_group": 0
+        },
+        "d1f34c2f-6541-401e-b843-81befc8d8f93": {
+            "direction": "passive",
+            "names": [
+                "3"
+            ],
+            "primary_name": "GND3",
+            "swap_group": 0
+        },
+        "f776e830-d17f-422f-adac-e6e5ebaee545": {
+            "direction": "passive",
+            "names": [
+                "2",
+                "TMS"
+            ],
+            "primary_name": "SWDIO",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "81e51ec0-f097-4c34-88f5-3f0b9f442231"
+}

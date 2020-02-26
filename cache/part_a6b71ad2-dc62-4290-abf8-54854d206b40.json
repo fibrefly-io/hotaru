@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "AOZ1375DI-02"
+    ],
+    "base": "679b233d-a5fb-4bc7-9a1c-5d1c449cd93b",
+    "datasheet": [
+        true,
+        "http://www.aosmd.com/res/data_sheets/AOZ1375DI-01.pdf"
+    ],
+    "description": [
+        true,
+        "ECPowerTM 20V 5A Bidirectional Load Switch with Over-Voltage and Over-Current Protection"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        true,
+        "Alpha & Omega"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "eea79833-ad1c-452d-be18-2da2e340cd9d": "AOZ1375DI-02"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "a6b71ad2-dc62-4290-abf8-54854d206b40",
+    "value": [
+        true,
+        "AOZ1375DI"
+    ]
+}

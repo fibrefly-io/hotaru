@@ -1,0 +1,103 @@
+{
+    "MPN": [
+        false,
+        "SN74HC595PW"
+    ],
+    "datasheet": [
+        false,
+        "http://www.ti.com/lit/pdf/scls041"
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "2531d0c1-a627-4670-887a-ae3b5386f2d9",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "9175feed-f3db-4e45-9bcd-fb5d677df772",
+    "orderable_MPNs": {
+        "3586577a-56cb-4b6f-8c37-46c9a7e9e949": "SN74HC595PW",
+        "4ddfa687-bb07-40fd-bf5b-6f10071cfc6d": "SN74HC595PWRG4",
+        "6f3ea51e-fef7-4ff9-8b1b-e2a93d6ce970": "SN74HC595PWRE4",
+        "9359f169-c5ee-432e-a694-5ab03d725fd8": "SN74HC595PWR"
+    },
+    "package": "c1ffc1fa-ee70-46f0-8869-52c7518dfa1e",
+    "pad_map": {
+        "1d4bf8f0-bd77-4bd2-96c1-065e04f5aac4": {
+            "gate": "bdc1bb7a-67e6-4be3-af72-64e171e4fd79",
+            "pin": "343f560d-9ee0-45cc-9f16-2f8546b8947e"
+        },
+        "1d84de48-953b-4cfa-b28e-ee0fea9b2b9d": {
+            "gate": "bdc1bb7a-67e6-4be3-af72-64e171e4fd79",
+            "pin": "bc445a1a-9a7c-42aa-9a43-7eb8b49c43b5"
+        },
+        "255d43f3-7c29-4fe7-8eb2-ffb740798427": {
+            "gate": "bdc1bb7a-67e6-4be3-af72-64e171e4fd79",
+            "pin": "76c0487e-47c7-49df-bf88-8c09410c2a77"
+        },
+        "37ec7a5b-e203-47ff-a421-ba9b1e9101cd": {
+            "gate": "bdc1bb7a-67e6-4be3-af72-64e171e4fd79",
+            "pin": "7de9a49b-7057-4340-9fc0-e7412b9e700b"
+        },
+        "3f62c908-e6a5-4300-a708-aeae5b4aab80": {
+            "gate": "bdc1bb7a-67e6-4be3-af72-64e171e4fd79",
+            "pin": "356d116c-edfe-4959-b6e6-85b31bbaf99a"
+        },
+        "446b81e0-3afc-48b0-9ab5-8babdc6deb6a": {
+            "gate": "bdc1bb7a-67e6-4be3-af72-64e171e4fd79",
+            "pin": "39c37f43-5824-422f-81fb-9e42d6240f70"
+        },
+        "53285fec-3ebc-4f27-aa6f-a3f7ac1bd7f8": {
+            "gate": "bdc1bb7a-67e6-4be3-af72-64e171e4fd79",
+            "pin": "fed41620-1625-4893-ac7e-8b21555f9195"
+        },
+        "54b3d96f-e226-49cb-81cf-4d76ce3c1480": {
+            "gate": "bdc1bb7a-67e6-4be3-af72-64e171e4fd79",
+            "pin": "92dddaed-dee2-44a9-8b4e-9b834dcab34a"
+        },
+        "5b77f19a-59d1-40ec-bf4a-5328ae9dbffd": {
+            "gate": "bdc1bb7a-67e6-4be3-af72-64e171e4fd79",
+            "pin": "5cc74616-1e84-4789-9e60-2faf2abd1c8a"
+        },
+        "9eb190ff-ce24-41cb-a25b-15cf629e394b": {
+            "gate": "bdc1bb7a-67e6-4be3-af72-64e171e4fd79",
+            "pin": "fd558201-1a80-4264-90ff-3d046cabe7e2"
+        },
+        "abef0b7e-fd16-48d3-880c-5a80ad0ac6f8": {
+            "gate": "bdc1bb7a-67e6-4be3-af72-64e171e4fd79",
+            "pin": "a48dfa7b-e9ae-460c-a5d5-d85681cf4287"
+        },
+        "b50db897-985a-4f47-9c46-82f1db5fdd44": {
+            "gate": "bdc1bb7a-67e6-4be3-af72-64e171e4fd79",
+            "pin": "57024cf5-e10d-4a48-8ed4-2266c69d3c69"
+        },
+        "ba2e99cd-25de-4c2c-86f6-14b8557d0475": {
+            "gate": "bdc1bb7a-67e6-4be3-af72-64e171e4fd79",
+            "pin": "dfa674f8-9566-4394-a74a-9f24c129dd5c"
+        },
+        "d136be23-6be5-427c-ad57-7de76bc93940": {
+            "gate": "bdc1bb7a-67e6-4be3-af72-64e171e4fd79",
+            "pin": "a196a382-7e73-444c-a96f-fc626794f24b"
+        },
+        "f1d744cf-840d-424d-98a8-e4af5e78c8ba": {
+            "gate": "bdc1bb7a-67e6-4be3-af72-64e171e4fd79",
+            "pin": "01114acf-ea9f-463d-ac91-deb888f503f8"
+        },
+        "ffb28a61-8fd0-4db3-a62b-e701c3d4962c": {
+            "gate": "bdc1bb7a-67e6-4be3-af72-64e171e4fd79",
+            "pin": "6edb37b8-ad92-486d-8cb4-97495e4a3afc"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "0f8012f4-98bb-476a-ad10-0072aee6502c",
+    "value": [
+        false,
+        "HC595"
+    ]
+}

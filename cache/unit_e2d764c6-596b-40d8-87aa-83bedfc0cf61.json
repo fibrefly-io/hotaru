@@ -1,0 +1,128 @@
+{
+    "manufacturer": "FTDIchip",
+    "name": "FT4232",
+    "pins": {
+        "11217b2e-07de-4acd-9e13-7016ff1889c2": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D-",
+            "swap_group": 0
+        },
+        "17c2dee7-490e-4bd4-8d75-e2a5f7e6fdbb": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "EEDATA",
+            "swap_group": 0
+        },
+        "24852d77-f655-4ed9-ab86-a3564a71c1af": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VREGIN",
+            "swap_group": 0
+        },
+        "360ce3f9-b8dd-4b1a-a3d5-9c91e3761720": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RESET#",
+            "swap_group": 0
+        },
+        "3c9f31a7-7fc7-4f2d-a963-1bb66abc135b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "3e4c3a59-7572-415b-9b50-22c6cad13371": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AGND",
+            "swap_group": 0
+        },
+        "56401d7d-0286-44de-a3af-e5b843ef5e1d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "OSCO",
+            "swap_group": 0
+        },
+        "66092e8c-b2d3-494d-8e92-d1d254cdff6c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCORE",
+            "swap_group": 0
+        },
+        "6829b5ce-adb4-4bc3-bb7a-db5ae3d8f206": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VPLL",
+            "swap_group": 0
+        },
+        "7124fa0b-6a54-46a7-8ff8-4d70fa8ee3f1": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "REF",
+            "swap_group": 0
+        },
+        "7d632113-dce8-40f9-ac3b-3281ebe9f547": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VPHY",
+            "swap_group": 0
+        },
+        "8f408810-717b-4ac4-9fac-581cf25b0f85": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "TEST",
+            "swap_group": 0
+        },
+        "939494f9-9d43-4285-8dc2-c1ea7481ed0f": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PWREN#",
+            "swap_group": 0
+        },
+        "a2d86ac7-1393-40c2-9326-7ca1360d44ba": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCIO",
+            "swap_group": 0
+        },
+        "beabb820-4bc8-4637-8d43-69ada9e8bb55": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "EECS",
+            "swap_group": 0
+        },
+        "c7db9312-3ab8-4465-9a5b-82ba5556bf5c": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "EECLK",
+            "swap_group": 0
+        },
+        "c86fc58d-0397-424f-b379-161f0debf9b9": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D+",
+            "swap_group": 0
+        },
+        "d03578b5-221b-4059-83d8-dd77afa4037f": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SUSPEND#",
+            "swap_group": 0
+        },
+        "f285b51a-57b1-4d61-a063-79350d1bdc79": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "OSCI",
+            "swap_group": 0
+        },
+        "ff292079-049b-49cb-863a-f154397c98d2": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VREGOUT",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "e2d764c6-596b-40d8-87aa-83bedfc0cf61"
+}

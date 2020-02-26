@@ -1,0 +1,65 @@
+{
+    "MPN": [
+        false,
+        "Two-terminal resistor, 0804 / 0402×4 array"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "e646ec9f-a5b4-4c06-84d1-bc7a2ef813e3",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "77afad10-3436-4a26-862e-5d4ca97c0814",
+    "package": "b70e63fa-b210-47e1-980c-e96b75f3c82c",
+    "pad_map": {
+        "08ff8fd9-cc10-4b51-a23f-23fafd985228": {
+            "gate": "2613b12b-a600-418e-87e5-8ed6d40efacd",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "19dba6ea-9fbd-401f-8d17-733783ee064e": {
+            "gate": "804d5609-c430-4851-9a79-2e4b2c62e9b1",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "31656d17-fb14-4386-80ae-b92fe4ab7a65": {
+            "gate": "593bd260-d2d4-4d9e-ab74-8e6b3b864d99",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "66bbb6cd-0515-4748-b30f-e10d49d07374": {
+            "gate": "804d5609-c430-4851-9a79-2e4b2c62e9b1",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "a2b32696-384f-4e6a-b33e-c8db35cd7f15": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "c2c68570-9ff8-4f2f-872d-9a7bf59e0751": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "de16d471-c2ba-4a05-ae62-a96a98255780": {
+            "gate": "2613b12b-a600-418e-87e5-8ed6d40efacd",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "e9e04fc1-ad9a-4182-b464-5e47f8c5f1c6": {
+            "gate": "593bd260-d2d4-4d9e-ab74-8e6b3b864d99",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "92f0f1cb-d383-4927-8c9e-cb3313d3058d",
+    "value": [
+        false,
+        ""
+    ]
+}

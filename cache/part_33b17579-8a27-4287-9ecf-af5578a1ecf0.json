@@ -1,0 +1,69 @@
+{
+    "MPN": [
+        false,
+        "FTSH-105-01-L-DV-007-K"
+    ],
+    "datasheet": [
+        false,
+        "http://suddendocs.samtec.com/catalog_english/ftsh_smt.pdf"
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "4e4e79cb-8173-4ff9-8347-8d167d8d656e",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Samtec"
+    ],
+    "model": "98a4869c-4c10-4d8b-b1f2-d4b9f4b899c7",
+    "package": "f9a292d9-6faa-45f8-bd3c-108bb19ef25b",
+    "pad_map": {
+        "3300032c-5971-4219-ade1-9adc51236989": {
+            "gate": "2943ffe0-9acb-4bc7-985c-09329c59f66f",
+            "pin": "7222169d-2694-4b74-ae22-5ad906606f99"
+        },
+        "42170a4f-7520-4f97-bb29-c018b801f269": {
+            "gate": "2943ffe0-9acb-4bc7-985c-09329c59f66f",
+            "pin": "f776e830-d17f-422f-adac-e6e5ebaee545"
+        },
+        "4de5ab97-442f-421c-b9fb-341fa7da108c": {
+            "gate": "2943ffe0-9acb-4bc7-985c-09329c59f66f",
+            "pin": "3db7fe02-604e-4960-b2b1-0578f4782512"
+        },
+        "69cfffbd-273f-4716-8d36-0357ac1865e3": {
+            "gate": "2943ffe0-9acb-4bc7-985c-09329c59f66f",
+            "pin": "c4b28d29-3d36-426c-9e96-e3c874a781ac"
+        },
+        "76df2e7f-f997-44f6-9ab1-854027d382a4": {
+            "gate": "2943ffe0-9acb-4bc7-985c-09329c59f66f",
+            "pin": "d1f34c2f-6541-401e-b843-81befc8d8f93"
+        },
+        "8331f0b9-05c3-4e40-ad25-d9cc6d7995ef": {
+            "gate": "2943ffe0-9acb-4bc7-985c-09329c59f66f",
+            "pin": "63a2f649-839c-488c-8d87-bfae6388ef1a"
+        },
+        "92e271be-7c5b-4553-83bd-e167e52008ec": {
+            "gate": "2943ffe0-9acb-4bc7-985c-09329c59f66f",
+            "pin": "aa3df9df-f618-49c4-bbe4-36d4757a60ba"
+        },
+        "d83aa127-bf43-4f2c-9bda-db5ffad4d743": {
+            "gate": "2943ffe0-9acb-4bc7-985c-09329c59f66f",
+            "pin": "4c3f7b77-060a-4cc8-9589-5b33c9d3b678"
+        },
+        "d89108e7-1f12-47ae-a074-fbeda136f98a": {
+            "gate": "2943ffe0-9acb-4bc7-985c-09329c59f66f",
+            "pin": "38db3294-dfc3-430b-92a1-2a1187c442ab"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "33b17579-8a27-4287-9ecf-af5578a1ecf0",
+    "value": [
+        false,
+        ""
+    ]
+}

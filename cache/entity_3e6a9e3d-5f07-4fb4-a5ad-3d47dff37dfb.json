@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "034d06b2-2160-42ef-ae9f-f236d5142485": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "40d357a1-54b9-47a9-b9b3-e72eee15b9bf"
+        }
+    },
+    "manufacturer": "",
+    "name": "24C EEPROM",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "3e6a9e3d-5f07-4fb4-a5ad-3d47dff37dfb"
+}

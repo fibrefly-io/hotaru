@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "1bacca42-fa6e-4115-8517-381b1c16b9f3": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "569651c0-2f1f-461e-8418-c9705b62276b"
+        }
+    },
+    "manufacturer": "Diodes Inc.",
+    "name": "AP22615",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "5cf96891-af4c-4536-ac16-3b9b917e10e5"
+}

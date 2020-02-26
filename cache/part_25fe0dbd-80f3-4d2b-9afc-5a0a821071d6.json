@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "IN-S63AT5UW"
+    ],
+    "base": "6199a12d-bd3d-49e9-a811-363304a98d09",
+    "datasheet": [
+        true,
+        "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Top%20View/IN-S63AT%20Series_V1.1.pdf"
+    ],
+    "description": [
+        true,
+        ""
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        true,
+        "Inolux"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "be0484ed-7e89-439b-849b-b2c97c6bac5b": "IN-S63AT5UW"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "25fe0dbd-80f3-4d2b-9afc-5a0a821071d6",
+    "value": [
+        false,
+        "Wt 3.0V 5mA 900mcd"
+    ]
+}

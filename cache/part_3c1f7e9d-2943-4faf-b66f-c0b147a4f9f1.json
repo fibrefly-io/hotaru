@@ -1,0 +1,65 @@
+{
+    "MPN": [
+        false,
+        "24C EEPROM"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "3e6a9e3d-5f07-4fb4-a5ad-3d47dff37dfb",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "ae68aeb7-c3c0-473d-9108-dcf5075e4cf7",
+    "package": "0932e22e-0cf7-46dc-b09c-4cc761a67608",
+    "pad_map": {
+        "17341892-a120-44e2-97ea-6e4f8e3d7da5": {
+            "gate": "034d06b2-2160-42ef-ae9f-f236d5142485",
+            "pin": "fb56826a-5ed1-438c-9d0d-76cc5d6233d8"
+        },
+        "29f18ab8-6cea-44fc-9bf5-4fb888f5245b": {
+            "gate": "034d06b2-2160-42ef-ae9f-f236d5142485",
+            "pin": "8322db32-51c6-43e0-92a8-f4f115b8a89e"
+        },
+        "3d725e25-0d60-46cb-a21f-82462d3ce156": {
+            "gate": "034d06b2-2160-42ef-ae9f-f236d5142485",
+            "pin": "38734405-b088-4d57-a744-85a5e7c9877c"
+        },
+        "51d7c05f-acae-46d5-9c26-2ea9d17bf7a8": {
+            "gate": "034d06b2-2160-42ef-ae9f-f236d5142485",
+            "pin": "2efae989-8c4d-44d8-b35a-87e6dbde24db"
+        },
+        "68b17b6f-ab52-4c2b-9389-c36d3c06eeef": {
+            "gate": "034d06b2-2160-42ef-ae9f-f236d5142485",
+            "pin": "dedfa09e-e880-4801-be00-2c18ce62b535"
+        },
+        "6f82c7c4-9578-4cb0-a92c-8b09534d5dc9": {
+            "gate": "034d06b2-2160-42ef-ae9f-f236d5142485",
+            "pin": "1eb339df-7b83-49a5-85a1-d264cd90a564"
+        },
+        "82d773fb-4473-4bd9-a879-a6ca2756055c": {
+            "gate": "034d06b2-2160-42ef-ae9f-f236d5142485",
+            "pin": "1332b9fb-1fe7-4051-a514-dcd132ad8ac6"
+        },
+        "b9ad4acf-f78d-438d-8b7b-e83ee0f9cc19": {
+            "gate": "034d06b2-2160-42ef-ae9f-f236d5142485",
+            "pin": "988f451d-c61f-4d52-8a34-31c5af2e286a"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "3c1f7e9d-2943-4faf-b66f-c0b147a4f9f1",
+    "value": [
+        false,
+        ""
+    ]
+}

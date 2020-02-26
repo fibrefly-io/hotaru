@@ -1,0 +1,57 @@
+{
+    "MPN": [
+        false,
+        "87520"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "USB type-A receptacle"
+    ],
+    "entity": "f9bf95c6-8914-4b84-8a7d-1ac2882710fd",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "d796c3ec-92c6-4c84-b643-e49dd4d2b547",
+    "package": "06c5590d-64d7-4307-afc1-aba547354d90",
+    "pad_map": {
+        "162c6e54-aa07-4191-b3f3-1a56767898b8": {
+            "gate": "ff5118de-6060-473b-9619-cf0fb6a81073",
+            "pin": "6a805b9e-cda4-4c01-ad45-ad8d96d7de48"
+        },
+        "1ea47efb-611d-4a67-8ea4-6326d47b911d": {
+            "gate": "ff5118de-6060-473b-9619-cf0fb6a81073",
+            "pin": "a5726f76-0de5-4924-91f1-76564cac556c"
+        },
+        "357712ce-852b-4225-963e-38f99c151a05": {
+            "gate": "ff5118de-6060-473b-9619-cf0fb6a81073",
+            "pin": "2e422f41-bfbc-46ad-abbe-167843a99170"
+        },
+        "3ad4ce34-6f7b-4f5d-8809-5702bf5582b6": {
+            "gate": "ff5118de-6060-473b-9619-cf0fb6a81073",
+            "pin": "393bbed9-8924-4934-ac24-2cf32d8af8c8"
+        },
+        "48d066c4-5d47-461b-a628-f7a7b6b94208": {
+            "gate": "ff5118de-6060-473b-9619-cf0fb6a81073",
+            "pin": "b6e7a3ce-cb8b-4694-a9c2-7991691592a2"
+        },
+        "9f9856e6-f64b-451c-a5a6-bc910541bc79": {
+            "gate": "ff5118de-6060-473b-9619-cf0fb6a81073",
+            "pin": "6a805b9e-cda4-4c01-ad45-ad8d96d7de48"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "b611e9b0-9f24-4be8-8f0a-dd4c793cc61b",
+    "value": [
+        false,
+        ""
+    ]
+}

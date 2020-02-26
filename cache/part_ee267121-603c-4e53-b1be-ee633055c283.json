@@ -1,0 +1,60 @@
+{
+    "MPN": [
+        false,
+        "AP22615"
+    ],
+    "datasheet": [
+        false,
+        "https://www.diodes.com/assets/Datasheets/AP22815-615.pdf"
+    ],
+    "description": [
+        false,
+        "Single channel power distribution switch with output OVP"
+    ],
+    "entity": "5cf96891-af4c-4536-ac16-3b9b917e10e5",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Diodes Inc."
+    ],
+    "model": "eb54e7ca-dcad-4e09-bd45-d2e32cddaa2a",
+    "orderable_MPNs": {
+        "2eef0cc7-a6ea-47e4-a088-b4568d2295d8": "AP22615AWU-7"
+    },
+    "package": "11314272-d429-4585-a184-15243cd114f0",
+    "pad_map": {
+        "531c3759-a1b6-40c6-9474-5554dc94bcec": {
+            "gate": "1bacca42-fa6e-4115-8517-381b1c16b9f3",
+            "pin": "d28b2d25-a9be-423e-a685-53fb6d8ca34d"
+        },
+        "561659d0-6f14-462f-a227-aca382d915d1": {
+            "gate": "1bacca42-fa6e-4115-8517-381b1c16b9f3",
+            "pin": "3b05d82c-d239-42cd-b105-6ddb77a0308e"
+        },
+        "9fe9b6c3-f887-4523-976a-6aa050235658": {
+            "gate": "1bacca42-fa6e-4115-8517-381b1c16b9f3",
+            "pin": "43ea1b77-78a0-41e2-ad29-85635321520a"
+        },
+        "bb9bbbd8-9aa2-49aa-98fd-b508ded56028": {
+            "gate": "1bacca42-fa6e-4115-8517-381b1c16b9f3",
+            "pin": "9e5de564-1d49-4ad9-93a0-d7e691883856"
+        },
+        "be802fd1-5220-4258-a11f-c1529e6187e0": {
+            "gate": "1bacca42-fa6e-4115-8517-381b1c16b9f3",
+            "pin": "7db9fee2-6e6f-4f3f-a36f-8386d88d0b7b"
+        },
+        "f827f54d-8a25-45ce-a5c6-aa1cdc05418a": {
+            "gate": "1bacca42-fa6e-4115-8517-381b1c16b9f3",
+            "pin": "18fed850-3716-48a0-ba37-a0875360269b"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "ee267121-603c-4e53-b1be-ee633055c283",
+    "value": [
+        false,
+        ""
+    ]
+}

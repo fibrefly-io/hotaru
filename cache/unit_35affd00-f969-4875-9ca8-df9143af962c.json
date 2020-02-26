@@ -1,0 +1,51 @@
+{
+    "manufacturer": "",
+    "name": "74*1G97",
+    "pins": {
+        "1f340ac1-2fcf-4ca2-ab43-bb40ed43ccb2": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "Y",
+            "swap_group": 0
+        },
+        "41fed09f-4c09-4ad6-8c75-1ea10033ce2e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "492268aa-4b11-4fe7-af0c-77dcacb30f8d": {
+            "direction": "input",
+            "names": [
+                "In0"
+            ],
+            "primary_name": "A",
+            "swap_group": 1
+        },
+        "4b62f3a4-00a4-4065-b809-aca29ab338f1": {
+            "direction": "input",
+            "names": [
+                "In2",
+                "SEL"
+            ],
+            "primary_name": "C",
+            "swap_group": 0
+        },
+        "a45369ed-b6e2-4896-a19a-9340f0470dac": {
+            "direction": "input",
+            "names": [
+                "In1"
+            ],
+            "primary_name": "B",
+            "swap_group": 1
+        },
+        "b84edb9a-06db-4029-8eba-e4ad437ff6b5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "35affd00-f969-4875-9ca8-df9143af962c"
+}

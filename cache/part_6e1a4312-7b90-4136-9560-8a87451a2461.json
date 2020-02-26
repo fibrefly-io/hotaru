@@ -1,0 +1,46 @@
+{
+    "MPN": [
+        false,
+        "BZT585B"
+    ],
+    "datasheet": [
+        false,
+        "https://www.diodes.com/assets/Datasheets/BZT585BxVxT.pdf"
+    ],
+    "description": [
+        false,
+        "Surface mount precision Zener diode (2%)"
+    ],
+    "entity": "79495f9d-d8fe-4f29-a4d3-63fcebb3b210",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Diodes Inc."
+    ],
+    "model": "bdafba99-5da8-42b8-8beb-7235f01d7a53",
+    "package": "1d48318c-cc95-4de5-8777-c9d0a6bfacf3",
+    "pad_map": {
+        "773a74e2-ed84-43cc-b514-788422dbe101": {
+            "gate": "99a144c3-86db-4726-b714-a110f6c8b2ea",
+            "pin": "16ee5a5c-8eea-4447-ad48-04d973776e3a"
+        },
+        "d3f91326-042a-4549-b2dd-5b7b45431266": {
+            "gate": "99a144c3-86db-4726-b714-a110f6c8b2ea",
+            "pin": "b57ca2a1-1bbf-43f0-b0a0-bf953094a8de"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode",
+        "discrete",
+        "smd",
+        "zener"
+    ],
+    "type": "part",
+    "uuid": "6e1a4312-7b90-4136-9560-8a87451a2461",
+    "value": [
+        false,
+        "BZT585B"
+    ]
+}

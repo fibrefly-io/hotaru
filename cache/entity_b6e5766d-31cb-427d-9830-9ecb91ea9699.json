@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "0ea29555-1e03-46c9-9319-0d07f5e39bc7": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "8ea27930-e122-4b6c-811b-dfb090df5ddc"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "74AVC2T244",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "b6e5766d-31cb-427d-9830-9ecb91ea9699"
+}

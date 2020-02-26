@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "SN74LV1T125DCKR"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "4c42103d-d1ab-4e1c-827a-0bb8914f08ab",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "47c2197b-8654-4005-8153-66a94729c5ef",
+    "package": "63ae45c5-5ca1-4449-9902-8289ad03a365",
+    "pad_map": {
+        "050b285e-e450-4206-94b2-c997cc5366d0": {
+            "gate": "d6a24d45-c9d6-4816-bdb5-9f175d313a18",
+            "pin": "999e92c4-687e-4a08-9194-a43299b7a6e6"
+        },
+        "34001ff5-556e-4615-b0b5-8976741b20cc": {
+            "gate": "d6a24d45-c9d6-4816-bdb5-9f175d313a18",
+            "pin": "43b59f9b-8677-4053-9f29-83a5d9b2a970"
+        },
+        "9b04d74a-b0e7-4031-ab42-3fd7dee866e3": {
+            "gate": "1b0f9826-1f80-41d3-a833-e61f602a4297",
+            "pin": "a8ba387d-1c68-4215-843f-9d669e48646d"
+        },
+        "ef8aac82-bf84-4794-a745-d4de08728aab": {
+            "gate": "d6a24d45-c9d6-4816-bdb5-9f175d313a18",
+            "pin": "48ec852d-214f-44c8-95ee-10d969d6aa2a"
+        },
+        "fe448fb4-c31a-460b-9323-7c57e3da2a79": {
+            "gate": "1b0f9826-1f80-41d3-a833-e61f602a4297",
+            "pin": "aacf2d55-cf04-4c20-89c5-61704ef771f7"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "b8a1986b-bd14-4ad9-875a-8e3fcfe5bff9",
+    "value": [
+        false,
+        ""
+    ]
+}

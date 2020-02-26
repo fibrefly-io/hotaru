@@ -1,0 +1,89 @@
+{
+    "manufacturer": "FTDIchip",
+    "name": "FT4232 port",
+    "pins": {
+        "0bfc2192-8361-40c0-9eb5-2f64f8ea0203": {
+            "direction": "bidirectional",
+            "names": [
+                "CTS#",
+                "TMS",
+                "CS"
+            ],
+            "primary_name": "B3",
+            "swap_group": 0
+        },
+        "366f3047-7a1c-422d-8f17-be5cf89685d9": {
+            "direction": "bidirectional",
+            "names": [
+                "DCD#",
+                "GPIOL2"
+            ],
+            "primary_name": "B6",
+            "swap_group": 0
+        },
+        "3d7fa642-b924-4900-a2f4-0c60b18509a4": {
+            "direction": "bidirectional",
+            "names": [
+                "DTR#",
+                "GPIOL0"
+            ],
+            "primary_name": "B4",
+            "swap_group": 0
+        },
+        "5c619cc7-bb4f-4077-b3fd-ec55b171a633": {
+            "direction": "bidirectional",
+            "names": [
+                "RTS#",
+                "TDO",
+                "MISO",
+                "DI"
+            ],
+            "primary_name": "B2",
+            "swap_group": 0
+        },
+        "5cc2e276-7b90-46c7-966e-6737fd5c0e5a": {
+            "direction": "bidirectional",
+            "names": [
+                "TXD",
+                "TCK",
+                "SCK",
+                "SK"
+            ],
+            "primary_name": "B0",
+            "swap_group": 0
+        },
+        "b0f03420-b071-4860-b9e6-80b29cc91ee5": {
+            "direction": "bidirectional",
+            "names": [
+                "RXD",
+                "TDI",
+                "MOSI",
+                "DO"
+            ],
+            "primary_name": "B1",
+            "swap_group": 0
+        },
+        "b85404ce-aa09-4312-8407-94a11aa8c4eb": {
+            "direction": "bidirectional",
+            "names": [
+                "DSR#",
+                "GPIOL1"
+            ],
+            "primary_name": "B5",
+            "swap_group": 0
+        },
+        "bc061fe5-d671-4cc1-8df0-1f333802456b": {
+            "direction": "bidirectional",
+            "names": [
+                "RI#",
+                "TXDEN",
+                "GPIOL3",
+                "RTCK"
+            ],
+            "primary_name": "B7",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "784ef6d9-8063-4eb3-b793-0e89315e96b9"
+}

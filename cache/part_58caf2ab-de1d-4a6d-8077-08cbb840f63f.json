@@ -1,0 +1,37 @@
+{
+    "MPN": [
+        false,
+        "M24C02-RMN6T"
+    ],
+    "base": "702d39c9-1186-4663-8075-56f98e382bae",
+    "datasheet": [
+        false,
+        "http://www.st.com/content/ccc/resource/technical/document/datasheet/33/a5/35/f1/1f/3b/45/bb/DM00157643.pdf/files/DM00157643.pdf/jcr:content/translations/en.DM00157643.pdf"
+    ],
+    "description": [
+        true,
+        ""
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "STMicroelectronics"
+    ],
+    "model": "ae68aeb7-c3c0-473d-9108-dcf5075e4cf7",
+    "orderable_MPNs": {
+        "1caaf973-653c-4f81-9ab6-615b27d52a2d": "M24C02-DRMN8T",
+        "42721ceb-30c3-4437-870d-07aa1d0983c1": "M24C02-DRMN8TP",
+        "6931677b-387b-4628-bdd9-79ee76ffe967": "M24C02-RMN6TP",
+        "c87abbe0-bb59-4018-90bc-a959cf411439": "M24C02-RMN6T",
+        "e6d1a159-fe6c-444a-879c-00896b3b073d": "M24C02-DRMN8TP/K"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "58caf2ab-de1d-4a6d-8077-08cbb840f63f",
+    "value": [
+        false,
+        "24C02 1.8-5.5V 1MHz"
+    ]
+}

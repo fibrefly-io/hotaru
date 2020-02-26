@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "905e4c3b-b9ce-40ba-9464-5cb711e30a01": {
+            "name": "",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "e4e8ac47-e1da-4b1a-84e3-76c8784da748"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "INA21x",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "opamp",
+        "single"
+    ],
+    "type": "entity",
+    "uuid": "67d68000-804f-4109-bd27-e6ea9c917dda"
+}

@@ -1,0 +1,25 @@
+{
+    "gates": {
+        "1b0f9826-1f80-41d3-a833-e61f602a4297": {
+            "name": "P",
+            "suffix": "P",
+            "swap_group": 0,
+            "unit": "c5b399c9-5626-4cc6-b33d-5c0f3da5df5c"
+        },
+        "d6a24d45-c9d6-4816-bdb5-9f175d313a18": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "e3b3d430-18f4-42a1-82af-e28ccd5f3bbc"
+        }
+    },
+    "manufacturer": "",
+    "name": "1T125",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "logic"
+    ],
+    "type": "entity",
+    "uuid": "4c42103d-d1ab-4e1c-827a-0bb8914f08ab"
+}

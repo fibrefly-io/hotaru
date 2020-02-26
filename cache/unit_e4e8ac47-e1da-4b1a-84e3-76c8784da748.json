@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "INA21x",
+    "pins": {
+        "26ad6112-142e-4905-b93c-b51e17bbc72e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "V+",
+            "swap_group": 0
+        },
+        "46304b03-232a-4536-8fb9-1918ae80f30c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN-",
+            "swap_group": 0
+        },
+        "96eaa6c6-74b2-490f-96b6-33226798e441": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN+",
+            "swap_group": 0
+        },
+        "cd6ae0fc-dd41-4401-b541-287348f034b0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "REF",
+            "swap_group": 0
+        },
+        "d29a0807-9481-48d6-97bc-f65a6e0e4cb8": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "fc822acf-ce0f-4bdf-b7cd-3a5ef4957147": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUT",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "e4e8ac47-e1da-4b1a-84e3-76c8784da748"
+}

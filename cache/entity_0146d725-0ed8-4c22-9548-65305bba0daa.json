@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "c408ff70-9e95-43c1-87f0-3de7b92772ff": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a5611bcd-b43a-46e9-bbef-47bd43c0e460"
+        }
+    },
+    "manufacturer": "Alpha & Omega",
+    "name": "AOZ1375DI",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "0146d725-0ed8-4c22-9548-65305bba0daa"
+}

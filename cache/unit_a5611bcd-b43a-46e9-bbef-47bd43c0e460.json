@@ -1,0 +1,68 @@
+{
+    "manufacturer": "Alpha & Omega",
+    "name": "AOZ1375DI",
+    "pins": {
+        "1080f6cd-1036-4771-b87d-b67df00cb052": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CSP",
+            "swap_group": 0
+        },
+        "25cbb50e-513e-4c78-bb92-9b92d25f8914": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VINT",
+            "swap_group": 0
+        },
+        "3065f554-0df4-4824-9e0a-8717f74ce560": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ILIM",
+            "swap_group": 0
+        },
+        "3b8c17d1-0b9a-432a-8dd2-d38f3a3bec22": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        },
+        "605ed3af-1b4b-43f7-b090-18380af27296": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "632e0dcb-9fb7-4069-ac9a-c96348043add": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "POVP",
+            "swap_group": 0
+        },
+        "7c4bf6b4-6a13-4c0b-a12b-869bdf82e09c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SS",
+            "swap_group": 0
+        },
+        "c96fb76b-39da-4e5c-b773-3bacd5da0da3": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CSN",
+            "swap_group": 0
+        },
+        "d4ec329c-ebeb-460f-a5c0-2377cc44affe": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VBUS",
+            "swap_group": 0
+        },
+        "dd24f154-e7dd-4309-832a-ac4a225d2b27": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "FLT",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "a5611bcd-b43a-46e9-bbef-47bd43c0e460"
+}

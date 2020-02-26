@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "RMCF0603FT51K0"
+    ],
+    "base": "cf9b4417-2f9c-4715-b265-0b850e19b82b",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "SMD Resistor 0603, 51 Kohm, 1%, 0.1W (RMCF)"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        ""
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1.0",
+        "value": "51000.0"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "3b16d7e1-4545-452a-8178-4a02b164bbea",
+    "value": [
+        false,
+        "51 k\u2126"
+    ]
+}

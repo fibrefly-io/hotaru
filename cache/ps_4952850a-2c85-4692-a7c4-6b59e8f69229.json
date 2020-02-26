@@ -1,0 +1,126 @@
+{
+    "holes": {
+        "2e747089-67de-4eb3-8738-df1f2b7dc593": {
+            "diameter": 300000,
+            "length": 800000,
+            "parameter_class": "hole",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            },
+            "plated": true,
+            "shape": "slot"
+        }
+    },
+    "name": "TH Obround, asymmetric elongated, top only",
+    "padstack_type": "through",
+    "parameter_program": "get-parameter [ pad_width ]\nget-parameter [ pad_height ]\n\ndupc\nset-shape [ toppad obround ]\nget-parameter [ solder_mask_expansion ]\n2 *\n+xy\nset-shape [ topmask obround ]\n\n\nget-parameter [ hole_length ]\nget-parameter [ pad_height ]\nget-parameter [ hole_diameter ]\n-\n+\nget-parameter [ pad_height ]\ndupc\ndupc\nset-shape [ botpad obround ]\nset-shape [ innerpad obround ]\nget-parameter [ solder_mask_expansion ]\n2 *\n+xy\nset-shape [ botmask obround ]\n\n\nget-parameter [ pad_width ]\nget-parameter [ hole_length ]\n-\nget-parameter [ pad_height ]\nget-parameter [ hole_diameter ]\n-\n-\n2 /\n0mm\n\ndupc\nset-shape [ toppad position ]\nset-shape [ topmask position ]\n\n\nget-parameter [ hole_diameter ]\nget-parameter [ hole_length ]\nset-hole [ hole slot ]",
+    "parameter_set": {
+        "hole_diameter": 300000,
+        "hole_length": 800000,
+        "pad_height": 500000,
+        "pad_width": 1600000,
+        "solder_mask_expansion": 100000
+    },
+    "parameters_required": [
+        "pad_width",
+        "pad_height",
+        "hole_diameter",
+        "hole_length"
+    ],
+    "polygons": {},
+    "shapes": {
+        "369ddb1b-a144-4927-81ec-487b8d410317": {
+            "form": "obround",
+            "layer": 10,
+            "parameter_class": "topmask",
+            "params": [
+                1800000,
+                700000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    300000,
+                    0
+                ]
+            }
+        },
+        "6b90bc28-8755-46a5-932f-b9da6d312672": {
+            "form": "obround",
+            "layer": -100,
+            "parameter_class": "botpad",
+            "params": [
+                1000000,
+                500000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "a7132d19-ae9c-46d0-94c3-d7a68f842d71": {
+            "form": "obround",
+            "layer": 0,
+            "parameter_class": "toppad",
+            "params": [
+                1600000,
+                500000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    300000,
+                    0
+                ]
+            }
+        },
+        "d102ecf5-328c-4e22-be5a-9238a08ed2c9": {
+            "form": "obround",
+            "layer": -110,
+            "parameter_class": "botmask",
+            "params": [
+                1200000,
+                700000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "d1be6691-9312-4912-8058-60fcb78b5d2c": {
+            "form": "obround",
+            "layer": -1,
+            "parameter_class": "innerpad",
+            "params": [
+                1000000,
+                500000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        }
+    },
+    "type": "padstack",
+    "uuid": "4952850a-2c85-4692-a7c4-6b59e8f69229",
+    "well_known_name": ""
+}

@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "TLV62568AP",
+    "pins": {
+        "1a88e458-d03d-41ce-bcd1-56a95a02bdf1": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "PG",
+            "swap_group": 0
+        },
+        "3ad9eaee-e068-4ae7-9c8c-cf9ec3696831": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "3b9c3222-69dc-4ca7-8cab-6bf0bfcc6fb6": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VIN",
+            "swap_group": 0
+        },
+        "4584b820-eed0-47be-ab01-af7cfd07018b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "FB",
+            "swap_group": 0
+        },
+        "58407aad-0ba4-4a14-9004-c915df4ae4a1": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        },
+        "9aa71e80-55e1-4791-8dc7-afc5ffebdb31": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "SW",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "295a3a92-e711-4a84-aa57-34942ae98c1b"
+}

@@ -1,0 +1,39 @@
+{
+    "gates": {
+        "2613b12b-a600-418e-87e5-8ed6d40efacd": {
+            "name": "B",
+            "suffix": "B",
+            "swap_group": 1,
+            "unit": "9b22b899-e8eb-4ce8-b62d-79b7b2db035e"
+        },
+        "48af78e5-730e-44eb-977a-cf188e4fcb39": {
+            "name": "A",
+            "suffix": "A",
+            "swap_group": 1,
+            "unit": "9b22b899-e8eb-4ce8-b62d-79b7b2db035e"
+        },
+        "593bd260-d2d4-4d9e-ab74-8e6b3b864d99": {
+            "name": "C",
+            "suffix": "C",
+            "swap_group": 1,
+            "unit": "9b22b899-e8eb-4ce8-b62d-79b7b2db035e"
+        },
+        "804d5609-c430-4851-9a79-2e4b2c62e9b1": {
+            "name": "D",
+            "suffix": "D",
+            "swap_group": 1,
+            "unit": "9b22b899-e8eb-4ce8-b62d-79b7b2db035e"
+        }
+    },
+    "manufacturer": "",
+    "name": "Two-terminal resistor, ×4 array",
+    "prefix": "RN",
+    "tags": [
+        "array",
+        "generic",
+        "passive",
+        "resistor"
+    ],
+    "type": "entity",
+    "uuid": "e646ec9f-a5b4-4c06-84d1-bc7a2ef813e3"
+}

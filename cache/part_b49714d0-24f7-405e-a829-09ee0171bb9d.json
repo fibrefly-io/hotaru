@@ -1,0 +1,61 @@
+{
+    "MPN": [
+        false,
+        "93Cx6"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "93Cx6 SPI eeprom"
+    ],
+    "entity": "9ddcf79b-269b-4e34-83f1-804530de1978",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "ae68aeb7-c3c0-473d-9108-dcf5075e4cf7",
+    "package": "0932e22e-0cf7-46dc-b09c-4cc761a67608",
+    "pad_map": {
+        "17341892-a120-44e2-97ea-6e4f8e3d7da5": {
+            "gate": "c414f55e-d3d3-494a-a159-c2daec5d2124",
+            "pin": "34156d7c-770a-4f74-b1e0-fa94b202b2ee"
+        },
+        "29f18ab8-6cea-44fc-9bf5-4fb888f5245b": {
+            "gate": "c414f55e-d3d3-494a-a159-c2daec5d2124",
+            "pin": "cb82aa2c-dd20-415d-9a53-233af502a975"
+        },
+        "51d7c05f-acae-46d5-9c26-2ea9d17bf7a8": {
+            "gate": "c414f55e-d3d3-494a-a159-c2daec5d2124",
+            "pin": "744aab7a-bc09-4174-bb5d-fffcca50e2af"
+        },
+        "68b17b6f-ab52-4c2b-9389-c36d3c06eeef": {
+            "gate": "c414f55e-d3d3-494a-a159-c2daec5d2124",
+            "pin": "121a8ee9-9acd-44c3-a5e1-13375308e4f7"
+        },
+        "6f82c7c4-9578-4cb0-a92c-8b09534d5dc9": {
+            "gate": "c414f55e-d3d3-494a-a159-c2daec5d2124",
+            "pin": "593b0399-2ac8-4d67-973c-a49b62dc1e5d"
+        },
+        "82d773fb-4473-4bd9-a879-a6ca2756055c": {
+            "gate": "c414f55e-d3d3-494a-a159-c2daec5d2124",
+            "pin": "02698b73-ab71-4deb-918a-891a6193d538"
+        },
+        "b9ad4acf-f78d-438d-8b7b-e83ee0f9cc19": {
+            "gate": "c414f55e-d3d3-494a-a159-c2daec5d2124",
+            "pin": "e4d716fb-8097-4ac6-978d-ed67ac5483be"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "b49714d0-24f7-405e-a829-09ee0171bb9d",
+    "value": [
+        false,
+        ""
+    ]
+}

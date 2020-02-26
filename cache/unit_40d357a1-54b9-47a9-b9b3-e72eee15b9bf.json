@@ -1,0 +1,56 @@
+{
+    "manufacturer": "",
+    "name": "24C EEPROM",
+    "pins": {
+        "1332b9fb-1fe7-4051-a514-dcd132ad8ac6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "1eb339df-7b83-49a5-85a1-d264cd90a564": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "2efae989-8c4d-44d8-b35a-87e6dbde24db": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A0",
+            "swap_group": 0
+        },
+        "38734405-b088-4d57-a744-85a5e7c9877c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "WP",
+            "swap_group": 0
+        },
+        "8322db32-51c6-43e0-92a8-f4f115b8a89e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "988f451d-c61f-4d52-8a34-31c5af2e286a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "dedfa09e-e880-4801-be00-2c18ce62b535": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A2",
+            "swap_group": 0
+        },
+        "fb56826a-5ed1-438c-9d0d-76cc5d6233d8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "40d357a1-54b9-47a9-b9b3-e72eee15b9bf"
+}

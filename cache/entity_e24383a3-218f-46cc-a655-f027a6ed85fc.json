@@ -1,0 +1,42 @@
+{
+    "gates": {
+        "4c7d156d-afd7-4749-8b0f-f52d0ae6124f": {
+            "name": "B",
+            "suffix": "B",
+            "swap_group": 1,
+            "unit": "784ef6d9-8063-4eb3-b793-0e89315e96b9"
+        },
+        "9b24c9b9-84a0-4f29-a693-e215ba235e73": {
+            "name": "D",
+            "suffix": "D",
+            "swap_group": 1,
+            "unit": "784ef6d9-8063-4eb3-b793-0e89315e96b9"
+        },
+        "a05e1ec2-7cda-4ab0-bea0-1a74e5d9112f": {
+            "name": "A",
+            "suffix": "A",
+            "swap_group": 1,
+            "unit": "784ef6d9-8063-4eb3-b793-0e89315e96b9"
+        },
+        "bbc61242-1044-493c-8f1c-8e0115f50980": {
+            "name": "C",
+            "suffix": "C",
+            "swap_group": 1,
+            "unit": "784ef6d9-8063-4eb3-b793-0e89315e96b9"
+        },
+        "ca6ae11d-0975-437f-b80f-2162a7f3b11e": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "e2d764c6-596b-40d8-87aa-83bedfc0cf61"
+        }
+    },
+    "manufacturer": "FTDIchip",
+    "name": "FT4232",
+    "prefix": "U",
+    "tags": [
+        "usb"
+    ],
+    "type": "entity",
+    "uuid": "e24383a3-218f-46cc-a655-f027a6ed85fc"
+}

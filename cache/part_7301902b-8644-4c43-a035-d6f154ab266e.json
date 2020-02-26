@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "INA210"
+    ],
+    "base": "98f6bf0f-6866-43ff-bdd5-83d1a70630b2",
+    "datasheet": [
+        true,
+        "http://www.ti.com/lit/gpn/ina210"
+    ],
+    "description": [
+        true,
+        "26V, Bi-Directional, Zero-Drift, Low-/High-Side, Voltage Output Current Sense Amplifier"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        true,
+        "Texas Instruments"
+    ],
+    "model": "c98e79df-0d34-465f-b6ab-403e5464a143",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "7301902b-8644-4c43-a035-d6f154ab266e",
+    "value": [
+        true,
+        "INA21x"
+    ]
+}

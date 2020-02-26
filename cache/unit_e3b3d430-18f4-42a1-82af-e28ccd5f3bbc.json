@@ -1,0 +1,26 @@
+{
+    "manufacturer": "",
+    "name": "1T125",
+    "pins": {
+        "43b59f9b-8677-4053-9f29-83a5d9b2a970": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "48ec852d-214f-44c8-95ee-10d969d6aa2a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "OE",
+            "swap_group": 0
+        },
+        "999e92c4-687e-4a08-9194-a43299b7a6e6": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "Y",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "e3b3d430-18f4-42a1-82af-e28ccd5f3bbc"
+}

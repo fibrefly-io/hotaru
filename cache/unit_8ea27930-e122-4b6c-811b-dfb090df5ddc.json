@@ -1,0 +1,56 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "74AVC2T244",
+    "pins": {
+        "213a835c-3627-4d0a-b678-b32221ecb6b5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VccA",
+            "swap_group": 0
+        },
+        "283979ef-a926-4d3e-9600-ff5a15437341": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VccB",
+            "swap_group": 0
+        },
+        "3c91ef0b-c34d-4d31-acd0-e6450ebfeaf6": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A2",
+            "swap_group": 1
+        },
+        "6537d04b-c777-45d0-b745-062a48678312": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "B2",
+            "swap_group": 2
+        },
+        "6a05d463-8ed2-4f9b-86ea-71aab0096ec9": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A1",
+            "swap_group": 1
+        },
+        "72eeea70-debc-4152-8dd4-2c5ed489e7e4": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "b08fc77c-b7e5-409c-9b99-c4679f680747": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "B1",
+            "swap_group": 2
+        },
+        "f00d0d42-c8f6-47ce-9441-bba831b68486": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "OE",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "8ea27930-e122-4b6c-811b-dfb090df5ddc"
+}

@@ -1,0 +1,61 @@
+{
+    "MPN": [
+        false,
+        "SN74LVC1G97DRL"
+    ],
+    "datasheet": [
+        false,
+        "http://www.ti.com/lit/gpn/sn74lvc1g97"
+    ],
+    "description": [
+        false,
+        "Configurable Multiple-Function Gate"
+    ],
+    "entity": "df331e54-cb4c-4737-b5d4-2f548d653728",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "63ab0dbc-61ff-4f08-9464-acf993cd2c06",
+    "orderable_MPNs": {
+        "6c514ff8-f624-4fdf-9bdf-fe6fe0be1516": "SN74LVC1G97DRLR",
+        "91eba85f-bb6d-49c5-b78e-8c3d4f037b12": "SN74LVC1G97DRLRG4"
+    },
+    "package": "818718e9-c0a3-4ffb-86f2-4e71d75b35d9",
+    "pad_map": {
+        "46ff2801-f4ab-4f56-85d5-54e064a4838d": {
+            "gate": "42264160-d6e4-4508-9174-f56f4a58b15a",
+            "pin": "4b62f3a4-00a4-4065-b809-aca29ab338f1"
+        },
+        "5a868f14-e766-4284-a257-69b3f0a45b80": {
+            "gate": "42264160-d6e4-4508-9174-f56f4a58b15a",
+            "pin": "b84edb9a-06db-4029-8eba-e4ad437ff6b5"
+        },
+        "77336e09-f767-47d6-94ce-9547bdc2e12e": {
+            "gate": "42264160-d6e4-4508-9174-f56f4a58b15a",
+            "pin": "41fed09f-4c09-4ad6-8c75-1ea10033ce2e"
+        },
+        "e0362259-8630-45ca-8471-4eb8b646b8ad": {
+            "gate": "42264160-d6e4-4508-9174-f56f4a58b15a",
+            "pin": "1f340ac1-2fcf-4ca2-ab43-bb40ed43ccb2"
+        },
+        "f1b39886-f20d-42f3-adb1-d18ec26b5b1f": {
+            "gate": "42264160-d6e4-4508-9174-f56f4a58b15a",
+            "pin": "a45369ed-b6e2-4896-a19a-9340f0470dac"
+        },
+        "f427b414-f532-4ae3-957b-1436d90eda78": {
+            "gate": "42264160-d6e4-4508-9174-f56f4a58b15a",
+            "pin": "492268aa-4b11-4fe7-af0c-77dcacb30f8d"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "7fc7f6b4-880c-4462-a36a-b56c1cf57002",
+    "value": [
+        false,
+        "LVC1G97"
+    ]
+}

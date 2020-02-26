@@ -1,0 +1,110 @@
+{
+    "manufacturer": "ON Semiconductor",
+    "name": "FUSB307",
+    "pins": {
+        "088eb6f7-3f77-4b27-b297-61791296f54c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA1/SCL2",
+            "swap_group": 0
+        },
+        "0db55024-e68d-4b6c-b8f0-2c9b253d31f5": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SCL1/SDA2",
+            "swap_group": 0
+        },
+        "0ede13eb-00b6-4436-b0f5-689e5434898e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VBUS",
+            "swap_group": 0
+        },
+        "2e4c76fb-cb4a-4603-8c0d-2096ca59a7ba": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SNK",
+            "swap_group": 0
+        },
+        "421556a7-cd40-4de3-844c-b4783ffb623a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC1",
+            "swap_group": 0
+        },
+        "4c8f5914-099f-4211-b8c7-d4f623776de8": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "LDO",
+            "swap_group": 0
+        },
+        "50bb09f1-9b8a-4a0b-a8e4-9fd26fbbc08d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC2",
+            "swap_group": 0
+        },
+        "5bf913a2-d595-482c-9ef8-bf67325f5741": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "INT",
+            "swap_group": 0
+        },
+        "6b2312af-ba2f-408f-8cd9-a9007dc6fe66": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCONN",
+            "swap_group": 0
+        },
+        "8fbc434a-0912-464d-9640-b8d9fdb4e973": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "DBG",
+            "swap_group": 0
+        },
+        "9c13ec2a-18f6-450c-bcf0-8b704407e6b3": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "PAD",
+            "swap_group": 0
+        },
+        "b0014752-2b72-49c2-8741-e2a6bc59d885": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ORIENT/I2C_ADDR",
+            "swap_group": 0
+        },
+        "b1de1c5b-d04b-424b-b39e-66560be4cbe0": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SRC",
+            "swap_group": 0
+        },
+        "c4f1c2e8-03a7-4abd-b0b2-d3ca7ba8af8a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO1",
+            "swap_group": 0
+        },
+        "cca7e92f-81dc-4aff-bb26-a276fb787214": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "d5239f61-0891-4f9c-a939-109575bd66e5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "eed5cd5a-8399-4d94-bfe5-642b5de2543b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "33435a05-563d-472e-96b9-7eb3fa598160"
+}
